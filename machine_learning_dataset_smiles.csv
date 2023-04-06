@@ -1,0 +1,554 @@
+﻿,Numbering,Smile,Mod Type,Molecular Weight,Staphylococcus aureus,,Methicillin-resistant Staphylococcus aureus,Methicillin-susceptible Staphylococcus aureus,Linezolid-resistant Staphylococcus aureus,Staphylococcus epidermidis,methicillin-sensitive Staphylococcus epidermidis,Methicillin-Resistant Staphylococcus epidermidis,Linezolid Resistant S.epidermidis,Enterococcus faecalis/S. faecalis,Vancomycin-resistant Enterococcus,Vancomycin-susceptible enterococci.,Linezolid-resistant Enterococcus faecalis,Enterococcus faecium,Enterococcus faecium  (vancomycin-resistant),Streptococcus pneumoniae,Penicillin-resistant Streptococcus pneumoniae (PRSP),Streptococcus pyogenes,Escherichia coli,Pseudomonas aeruginosa,S. cap.,Bacillus subtilis,Klebsiella pneumoniae,Moraxella catarrhalis,Haemophilus influenzae,Mycobacterium tuberculosis - H37rV,Melting point ©,Notes
+1,D1,O=C(C)NC[C@H](CC1)CN1C(C=C2F)=CC=C2N3CCN(CC4=CC=C([N+]([O-])=O)O4)CC3,,445.5,1,0,2,,,,,,,,2,,,,,,,,,,,,,,,,,S.aureus 29213
+2,D2,CN1C(C=NN2CCN(C3=CC=C(N4C[C@H](CNC(C)=O)OC4=O)C=C3F)CC2)=NC=C1[N+]([O-])=O,Morpholino,488.48,4,0.602059991,2,,,,,,,,4,,,,,,,,,,,,,,,,,S.aureus 29213
+3,D3,NC1=CN=C(C=NN2CCN(C3=CC=C(N4C[C@H](CNC(C)=O)OC4=O)C=C3F)CC2)N1C,Morpholino,458.5,8,0.903089987,8,,,,,,,,8,,,,,,,,,,,,,,,,,S.aureus 29213
+4,D4,CC1=NC=C([N+]([O-])=O)N1CC=NN2CCN(C3=CC=C(N4C[C@H](CNC(C)=O)OC4=O)C=C3F)CC2,Morpholino,502.51,1,0,1,,,,,,,,4,,,,,,,,,,,,,,,,,S.aureus 29213
+5,D5,CC1=NC=C([N+]([O-])=O)N1CC(C)=NN2CCN(C3=CC=C(N4C[C@H](CNC(C)=O)OC4=O)C=C3F)CC2,Morpholino,516.53,1,0,1,,,,,,,,4,,,,,,,,,,,,,,,,,S.aureus 29213
+6,D6,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C/C4=CC=C([N+]([O-])=O)O4)CC3,Morpholino,474.45,0.25,-0.602059991,1,,,,,,,,1,,,,,,,,,,,,,,,,,S.aureus 29213
+7,D7,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C/C4=CC=C([N+]([O-])=O)S4)CC3,Morpholino,490.51,0.25,-0.602059991,1,,,,,,,,2,,,,,,,,,,,,,,,,,S.aureus 29213
+8,D8,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C/C4=CC=CC=C4[N+]([O-])=O)CC3,Morpholino,484.49,2,0.301029996,1,,,,,,,,2,,,,,,,,,,,,,,,,,S.aureus 29213
+9,D9,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C/C4=CC([N+]([O-])=O)=CC=C4)CC3,Morpholino,484.19,2,0.301029996,1,,,,,,,,2,,,,,,,,,,,,,,,,,S.aureus 29213
+10,D10,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C/C4=CC=C([N+]([O-])=O)C=C4)CC3,Morpholino,484.49,4,0.602059991,4,,,,,,,,4,,,,,,,,,,,,,,,,,S.aureus 29213
+11,D11,ClC1=C(/C=N/N2CCN(C3=CC=C(N4C[C@H](CNC(C)=O)OC4=O)C=C3F)CC2)C([N+]([O-])=O)=CC=C1,Morpholino,518.93,8,0.903089987,8,,,,,,,,8,,,,,,,,,,,,,,,,,S.aureus 29213
+12,D12,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C(C)/C4=CC=CC=N4)CC3,Morpholino,454.51,4,0.602059991,2,,,,,,,,2,,,,,,,,,,,,,,,,,S.aureus 29213
+13,D13,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C(C)/C4=CC=CC=C4)CC3,Morpholino,453.52,2,0.301029996,1,,,,,,,,1,,,,,,,,,,,,,,,,,S.aureus 29213
+14,D14,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C(C)/C4=CC=C(F)C=C4)CC3,Morpholino,471.51,2,0.301029996,1,,,,,,,,1,,,,,,,,,,,,,,,,,S.aureus 29213
+15,D15,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C(C)/C4=CC(Cl)=CC=C4)CC3,Morpholino,487.96,8,0.903089987,8,,,,,,,,8,,,,,,,,,,,,,,,,,S.aureus 29213
+16,D16,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C/C=C/C4=CC=CC=C4)CC3,Morpholino,465.53,8,0.903089987,8,,,,,,,,8,,,,,,,,,,,,,,,,,S.aureus 29213
+17,D17,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(/N=C/CC4=CC=CC=C4)CC3,Morpholino,453.52,2,0.301029996,2,,,,,,,,4,,,,,,,,,,,,,,,,,S.aureus 29213
+18,D18,O=C(C)NC[C@H](OC1=O)CN1C(C=C2F)=CC=C2N3CCN(C4=C([N+]([O-])=O)C=CC=C4)CC3,Morpholino,457.46,1,0,1,,,,,,,,1,,,,,,,,,,,,,,,,,S.aureus 29213
+19,D19,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=CC=CC=C4)CC3)C(F)=C2.C[H],Morpholino,442.54,1,0,1,1,,,,,,,1,,0.5,,,,,,,,,,,,,,,S.aureus 29213
+20,D20,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=CC=C(C(C)O)C=C4)CC3)C(F)=C2,Morpholino,470.55,2,0.301029996,1,2,,,,,,,0.5,,0.5,,,,,,,,,,,,,,,S.aureus 29213
+21,D21,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=CC=C(OC(F)(F)F)C=C4)CC3)C(F)=C2,Morpholino,510.49,1,0,1,1,,,,,,,0.5,,0.5,,,,,,,,,,,,,,,S.aureus 29213
+22,D22,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=CC(OC(F)(F)F)=CC=C4)CC3)C(F)=C2,Morpholino,510.49,2,0.301029996,2,2,,,,,,,2,,2,,,,,,,,,,,,,,,S.aureus 29213
+23,D23,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=C(OC(F)(F)F)C=CC=C4)CC3)C(F)=C2,Morpholino,510.49,2,0.301029996,2,2,,,,,,,2,,1,,,,,,,,,,,,,,,S.aureus 29213
+24,D24,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=CC=C(F)C=C4)CC3)C(F)=C2,Morpholino,444.48,1,0,0.5,1,,,,,,,1,,1,,,,,,,,,,,,,,,S.aureus 29213
+25,D25,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=CC=C(Cl)C=C4)CC3)C(F)=C2,Morpholino,460.93,2,0.301029996,2,2,,,,,,,2,,2,,,,,,,,,,,,,,,S.aureus 29213
+26,D26,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=CC=C(Br)C=C4)CC3)C(F)=C2,Morpholino,505.39,1,0,0.5,1,,,,,,,0.25,,0.25,,,,,,,,,,,,,,,S.aureus 29213
+27,D27,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=CC(Br)=CC=C4)CC3)C(F)=C2,Morpholino,505.39,2,0.301029996,2,2,,,,,,,2,,2,,,,,,,,,,,,,,,S.aureus 29213
+28,D28,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=C(Br)C=CC=C4)CC3)C(F)=C2,Morpholino,505.39,2,0.301029996,2,2,,,,,,,2,,2,,,,,,,,,,,,,,,S.aureus 29213
+29,D29,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NC4=C(F)C=C(Br)C=C4)CC3)C(F)=C2,Morpholino,523.38,2,0.301029996,2,2,,,,,,,2,,1,,,,,,,,,,,,,,,S.aureus 29213
+30,D30,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NCC4=CC=CC=C4)CC3)C(F)=C2.C[H],Morpholino,456.56,2,0.301029996,1,1,,,,,,,2,,2,,,,,,,,,,,,,,,S.aureus 29213
+31,D31,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCC(NCC4=CC=C(F)C=C4)CC3)C(F)=C2,Morpholino,458.51,1,0,1,1,,,,,,,2,,2,,,,,,,,,,,,,,,S.aureus 29213
+32,D32,O=C(C)NC[C@H](OC1=C)CN1C2=CC=C(N3CCC(N(C4=CC=C(Br)C=C4)C)CC3)C(F)=C2,Morpholino,517.44,1,0,2,2,,,,,,,1,,1,,,,,,,,,,,,,,,S.aureus 29213
+33,D33,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=CN=C4)C(F)=C2,Aryl,395.39,,,16,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27853"
+34,D34,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=CC(Br)=N4)C(F)=C2,Aryl,474.29,,,32,16,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27854"
+35,D35,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=C(C)C=C4)C(F)=C2,Aryl,408.43,,,32,16,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27855"
+36,D36,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=C(Br)C=C4)C(F)=C2,Aryl,473.3,,,8,16,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27856"
+37,D37,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=CC=N4)C(F)=C2,Aryl,395.39,,,16,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27857"
+38,D38,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=C(SC)C=C4)C(F)=C2,Aryl,440.49,,,32,16,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27858"
+39,D39,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=NC=C(Br)C=C4)C(F)=C2,Aryl,474.29,,,8,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27859"
+40,D40,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=NC=C4)C(F)=C2,Aryl,395.39,,,4,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27860"
+41,D41,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=C(F)C=C4)C(F)=C2,Aryl,412.4,,,32,32,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27861"
+42,D42,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC=C3C4=CC=C(OC)C(OC)=C4)C(F)=C2,Aryl,454.46,,,16,16,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27862"
+43,D43,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=NC=C4)=C3)C(F)=C2,Aryl,395.39,,,4,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27863"
+44,D44,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=C(C)C=C4)=C3)C(F)=C2,Aryl,408.43,,,8,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27864"
+45,D45,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=C(OC)C=C4)=C3)C(F)=C2,Aryl,424.43,,,8,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27865"
+46,D46,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=C(Cl)C=C4)=C3)C(F)=C2,Aryl,428.85,,,8,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27866"
+47,D47,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=C(C(O)=O)C=C4)=C3)C(F)=C2,Aryl,438.42,,,4,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27867"
+48,D48,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=CC=N4)=C3)C(F)=C2,Aryl,395.39,,,1,1,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27868"
+49,D49,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=CN=C4)=C3)C(F)=C2,Aryl,395.39,,,4,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27869"
+50,D50,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=C(C4=CC=CC=N4)C=C3)C(F)=C2,Aryl,395.39,,,8,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27870"
+51,D51,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=C(C4=CC=CN=C4)C=C3)C(F)=C2,Aryl,395.39,,,2,2,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27871"
+52,D52,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=C(C4=CC=NC=C4)C=C3)C(F)=C2,Aryl,395.39,,,8,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27872"
+53,D53,O=C(C)NC[C@H](OC1=O)CN1C2=CC([H])=C(N3N=C([H])C(C4=CC=C(C(N)=O)C=N4)=C3)C(F)=C2,Aryl,438.42,,,1,1,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27873"
+54,D54,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=C(C(NC)=O)C=N4)=C3)C(F)=C2,Aryl,452.45,,,2,2,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27874"
+55,D55,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=C(C(N5CCOCC5)=O)C=N4)=C3)C(F)=C2,Aryl,508.51,,,8,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27875"
+56,D56,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=C(C(OC)=O)C=N4)=C3)C(F)=C2,Aryl,453.43,,,1,0.5,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27876"
+57,D57,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=NC(C=CC=C5)=C5C=C4)=C3)C(F)=C2,Aryl,445.45,,,32,32,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27877"
+58,D58,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CN=CC=N4)=C3)C(F)=C2,Aryl,396.38,,,0.5,1,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27878"
+59,D59,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=NC(C=CC=C5)=C5N=C4)=C3)C(F)=C2,Aryl,446.44,,,0.5,1,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27879"
+60,D60,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=CC=C4[N+]([O-])=O)=C3)C(F)=C2,Aryl,439.4,,,4,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27880"
+61,D61,O=C(C)NC[C@H](OC1=O)CN1C2=CC([H])=C(N3N=C([H])C(C4=CC=CC=N4)=C3)C([H])=C2,Aryl,377.4,,,8,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27881"
+62,D62,O=C(C)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3N=CC(C4=CC=CC=N4)=C3)C(F)=C2,Aryl,413.38,,,8,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27882"
+63,D63,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=CC=[N+]4[O-])=C3)C(F)=C2,Aryl,411.39,,,2,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27883"
+64,D64,O=C(C)NC[C@H](OC1=O)CN1C2=CC([H])=C(N3N=C([H])C(C4=NC(C#N)=CC=C4)=C3)C(F)=C2,Aryl,420.4,,,4,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27884"
+65,D65,O=C(C)NC[C@H](OC1=O)CN1C2=CC([H])=C(N3N=C(F)C(C4=CC=CC=N4)=C3)C(F)=C2,Aryl,413.38,,,4,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27885"
+66,D66,O=C(C)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3N=C(Cl)C(C4=CC=CC=N4)=C3)C(F)=C2,Aryl,447.83,,,8,4,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27886"
+67,D67,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=C(Br)C(C4=CC=CC=N4)=C3)C(F)=C2,Aryl,474.29,,,8,8,,,,,,,,,,,,,,,>32,>32,,,,,,,,"MSSA ATCC25923, MRSA ATCC33591, Escherichia coli ATCC25922, Pseudomonas aeruginosa ATCC27887"
+68,D68,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3N=CC(C4=CC=CC=N4)=C3)C(F)=C2.[2H3PO4],Aryl,591.38,,,1,,,,,,,,,,,,,,,,,,,,,,,,,
+69,D69,O=C(NC[C@@](OC1=O)([H])CN1C(C=C2)=CC(C(F)(F)F)=C2N3CCOCC3)C(F)(F)F,Tail,441.33,1,0,4,,,1,,,,,2,,,,,,,,,,1,,,,,,,
+70,D70,O=C(NC[C@@](OC1=O)([H])CN1C(C=C2)=CC(C(F)(F)F)=C2N3CCOCC3)C(Cl)(Cl)Cl,Tail,490.69,2,0.301029996,4,,,1,,,,,2,,,,,,,,,,1,,,,,,,
+71,D71,O=C(NC[C@@](OC1=O)([H])CN1C(C=C2)=CC(C(F)(F)F)=C2N3CCOCC3)C(Cl)Cl,Tail,456.24,0.5,-0.301029996,1,,,0.25,,,,,0.5,,,,,,,,,,0.25,,,,,,,
+72,D72,O=C1O[C@@]([H])(CNC(Cl)=O)CN1C(C=C2)=CC(C(F)(F)F)=C2N3CCOCC3,Tail,407.77,0.25,-0.602059991,1,,,0.13,,,,,0.25,,,,,,,,,,0.25,,,,,,,
+73,D73,O=C1O[C@@]([H])(CNC(C=C)=O)CN1C(C=C2)=CC(C(F)(F)F)=C2N3CCOCC3,Tail,399.37,1,0,2,,,0.5,,,,,1,,,,,,,,,,1,,,,,,,
+74,D74,O=C1O[C@@]([H])(CNC(C2=CC=CO2)=O)CN1C(C=C3)=CC(C(F)(F)F)=C3N4CCOCC4,Tail,439.39,2,0.301029996,8,,,2,,,,,4,,,,,,,,,,2,,,,,,,
+75,D75,O=C(C)N(NC[C@@](OC1=O)([H])CN1C(C=C2)=CC(C(F)(F)F)=C2N3CCOCC3)C(C)=O,Tail,444.41,4,0.602059991,16,,,2,,,,,4,,,,,,,,,,2,,,,,,,
+76,D76,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC=CS4)=O)C=C3,Aryl,423.91,50,1.698970004,,,,,,,,25,,,,,,,,,100,,,25,50,,,,185-185,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+77,D77,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC=C(C)C=C4)=O)C=C3,Other,432.92,6.25,0.795880017,,,,,,,,12.25,,,,,,,,,25,,,12.5,25,,,,133-134,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+78,D78,OC1=C(/C=C/C(C2=CC=C(C3=CC=C(N4C[C@H](CCl)OC4=O)C=C3)C=C2)=O)C=CC=C1,Other,433.89,3.125,0.494850022,,,,,,,,3.125,,,,,,,,,6.25,,,3.125,6.25,,,,168-169,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+79,D79,OC1=CC=C(/C([H])=C([H])/C(C2=CC=C(C3=CC=C(N4C[C@H](CCl)OC4=O)C=C3)C=C2)=O)C=C1,Other,433.89,3.125,0.494850022,,,,,,,,3.125,,,,,,,,,6.25,,,3.125,6.25,,,,161-162,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+80,D80,FC1=C(/C=C/C(C2=CC=C(C3=CC=C(N4C[C@H](CCl)OC4=O)C=C3)C=C2)=O)C=CC=C1,Other,435.88,3.125,0.494850022,,,,,,,,6.25,,,,,,,,,6.25,,,3.125,6.25,,,,120-121,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+81,D81,FC1=CC=CC(/C=C/C(C2=CC=C(C3=CC=C(N4C[C@H](CCl)OC4=O)C=C3)C=C2)=O)=C1,Other,435.88,3.125,0.494850022,,,,,,,,6.25,,,,,,,,,6.25,,,3.125,6.25,,,,125-126,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+82,D82,FC1=CC=C(/C=C/C(C2=CC=C(C3=CC=C(N4C[C@H](CCl)OC4=O)C=C3)C=C2)=O)C=C1,Other,435.88,3.125,0.494850022,,,,,,,,3.125,,,,,,,,,3.125,,,3.125,6.25,,,,123-124,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+83,D83,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC=C(OC)C=C4)=O)C=C3,Other,447.9,25,1.397940009,,,,,,,,50,,,,,,,,,12.5,,,25,25,,,,180-181,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+84,D84,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=C(Cl)C=CC=C4)=O)C=C3,Other,452.33,6.25,0.795880017,,,,,,,,6.25,,,,,,,,,25,,,6.25,25,,,,122-123,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+85,D85,ClC1=CC=C(/C=C/C(C2=CC=C(C3=CC=C(N4C[C@H](CCl)OC4=O)C=C3)C=C2)=O)C=C1,Other,452.33,6.25,0.795880017,,,,,,,,6.25,,,,,,,,,25,,,6.25,25,,,,128-129,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+86,D86,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C(N4)=CC5=C4C=CC=C5)=O)C=C3,Other,456.93,25,1.397940009,,,,,,,,25,,,,,,,,,25,,,25,25,,,,206-207,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+87,D87,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC=C(N(C)C)C=C4)=O)C=C3,Other,460.96,25,1.397940009,,,,,,,,25,,,,,,,,,50,,,25,50,,,,188-189,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+88,D88,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=C([N+]([O-])=O)C=CC=C4)=O)C=C3,Other,462.89,25,1.397940009,,,,,,,,25,,,,,,,,,50,,,25,25,,,,195-196,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+89,D89,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC([N+]([O-])=O)=CC=C4)=O)C=C3,Other,462.89,25,1.397940009,,,,,,,,25,,,,,,,,,50,,,25,50,,,,194-195,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+90,D90,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC=C([N+]([O-])=O)C=C4)=O)C=C3,Other,462.89,25,1.397940009,,,,,,,,25,,,,,,,,,50,,,25,50,,,,199-200,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+91,D91,OC1=C(OC)C=C(/C=C/C(C2=CC=C(C3=CC=C(N4C[C@H](CCl)OC4=O)C=C3)C=C2)=O)C=C1,Other,463.91,6.25,0.795880017,,,,,,,,6.25,,,,,,,,,12.5,,,6.25,12.5,,,,141-142,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+92,D92,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC=C(OC)C(OC)=C4)=O)C=C3,Other,477.94,25,1.397940009,,,,,,,,25,,,,,,,,,25,,,25,25,,,,138-139,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+93,D93,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC(Br)=CS4)=O)C=C3,Other,502.81,50,1.698970004,,,,,,,,50,,,,,,,,,50,,,50,50,,,,192-193,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+94,D94,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC=C(OC)C(OC)=C4OC)=O)C=C3,Other,507.97,25,1.397940009,,,,,,,,25,,,,,,,,,50,,,25,50,,,,155-156,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+95,D95,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC(OC)=C(OC)C(OC)=C4)=O)C=C3,Other,507.97,25,1.397940009,,,,,,,,25,,,,,,,,,50,,,25,50,,,,158-159,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+96,D96,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC=C(OC)C(OC)=C4Cl)=O)C=C3,Other,512.38,25,1.397940009,,,,,,,,25,,,,,,,,,50,,,25,50,,,,161-162,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+97,D97,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=C5C=CC=CC5=CC6=CC=CC=C46)=O)C=C3,Other,518.01,50,1.698970004,,,,,,,,50,,,,,,,,,50,,,25,50,,,,232-233,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+98,D98,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=CC(Br)=CC(OC)=C4O)=O)C=C3,Other,542.81,12.5,1.096910013,,,,,,,,12.5,,,,,,,,,25,,,12.5,25,,,,130-131,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+99,D99,O=C1O[C@@H](CCl)CN1C(C=C2)=CC=C2C3=CC=C(C(/C=C/C4=C5C=CC=CC5=C(Cl)C6=CC=CC=C46)=O)C=C3,Other,552.45,50,1.698970004,,,,,,,,25,,,,,,,,,25,,,25,25,,,,191-198,"S. aureus (NCIM 5257), B. subtilis(NCIM2097),S. faecalis(NCIM2080),E. coli(NCIM
+2065),P. aeruginosa(NCIM 5210), K. pneumoniae(NCIM 5289)"
+100,D100,O=C(NC(NC1=O)=O)C21[C@]3([H])N(C[C@@H](C)O[C@H]3C)C4=C(F)C5=C(C(N6[C@@H](C)COC6=O)=NO5)C=C4C2,other,487.44,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,D101,O=C(NC(NC1=O)=O)C21[C@]3([H])N(C[C@@H](C)O[C@H]3C)C4=C(F)C=C([N+]([O-])=O)C=C4C2,other,392.34,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,D102,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCOC5)=C6C=C3)C=C2)C[C@H](CNC(C)=O)O1,Aryl + Tail,551.53,4,0.602059991,4,,,4,2,,32,,,,,,,,,,,,,,,,,,,
+103,D103,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCCC5)=C6C=C3)C=C2)C[C@H](CNC(C)=O)O1,Aryl + Tail,549.56,2,0.301029996,1,,,2,1,,32,,,,,,,,,,,,,,,,,,,
+104,D104,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CNC(C)=O)O1,Aryl + Tail,549.56,2,0.301029996,2,,,2,1,,32,,,,,,,,,,,,,,,,,,,
+105,D105,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCOC5)=C6C=C3)C=C2)C[C@H](CNC(CC)=O)O1,Aryl + Tail,563.59,8,0.903089987,4,,,4,4,,32,,,,,,,,,,,,,,,,,,,
+106,D106,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CNC(CC)=O)O1,Aryl + Tail,,16,1.204119983,4,,,8,4,,32,,,,,,,,,,,,,,,,,,,
+107,D107,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CNC(C(F)(F)F)=O)O1,Aryl + Tail,591.48,32,1.505149978,8,,,8,4,,32,,,,,,,,,,,,,,,,,,,
+108,D108,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCOC5)=C6C=C3)C=C2)C[C@H](CNC(OC)=O)O1,Aryl + Tail,565.56,4,0.602059991,4,,,4,2,,32,,,,,,,,,,,,,,,,,,,
+109,D109,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CNC(OC)=O)O1,Aryl + Tail,551.53,2,0.301029996,2,,,2,2,,32,,,,,,,,,,,,,,,,,,,
+110,D110,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCOC5)=C6C=C3)C=C2)C[C@H](CNC(OCC)=O)O1,Aryl + Tail,579.59,16,1.204119983,8,,,8,8,,32,,,,,,,,,,,,,,,,,,,
+111,D111,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CNC(OCC)=O)O1,Aryl + Tail,587.58,8,0.903089987,4,,,8,8,,32,,,,,,,,,,,,,,,,,,,
+112,D112,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCOC5)=C6C=C3)C=C2)C[C@H](CNS(=O)(C)=O)O1,Aryl + Tail,510.48,32,1.505149978,32,,,16,32,,32,,,,,,,,,,,,,,,,,,,
+113,D113,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CNS(=O)(C)=O)O1,Aryl + Tail,508.18,16,1.204119983,8,,,8,4,,32,,,,,,,,,,,,,,,,,,,
+114,D114,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCOC5)=C6C=C3)C=C2)C[C@H](CO)O1,Aryl + Tail,494.48,8,0.903089987,4,,,4,2,,32,,,,,,,,,,,,,,,,,,,
+115,D115,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCCC5)=C6C=C3)C=C2)C[C@H](CO)O1,Aryl + Tail,,4,0.602059991,2,,,2,1,,32,,,,,,,,,,,,,,,,,,,
+116,D116,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NC(NC4=O)=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CO)O1,Aryl + Tail,,4,0.602059991,2,,,2,1,,32,,,,,,,,,,,,,,,,,,,
+117,D117,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NNC4=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CO)O1,Aryl + Tail,,4,0.602059991,2,,,2,1,,32,,,,,,,,,,,,,,,,,,,
+118,D118,O=C1N(C2=CC(F)=C(C3=CC(CC4(C(NNC4=O)=O)C5N6CCC5)=C6C=C3)C=C2)C[C@H](CNC(C)=O)O1,Aryl + Tail,507.52,8,0.903089987,8,,,8,4,,32,,,,,,,,,,,,,,,,,,,
+119,D119,O=C1N(C2=CC(F)=C(C3=CC(CC(C(OC)=O)(C(OC)=O)C4N5CCOC4)=C5C=C3)C=C2)C[C@H](CO)O1,Aryl + Tail,,16,1.204119983,8,,,8,8,,32,,,,,,,,,,,,,,,,,,,
+120,D120,O=C1N(C2=CC(F)=C(C3=CC(CC(C(OC)=O)(C(OC)=O)C4N5CCOC4)=C5C=C3)C=C2)C[C@H](CNC(C)=O)O1,Aryl + Tail,513.56,8,0.903089987,4,,,4,4,,32,,,,,,,,,,,,,,,,,,,
+121,D121,O=C1O[C@@H](CNC(C)=O)CN1C(C=C2F)=CC=C2N3CCN(C(CO)=O)CC3,Morpholino,394.4,2,0.301029996,,,,,,,,,,,,,,,,,,,,,,,,,,Staphylococcus aureus SR20549
+122,D122,O=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCNN(C(CO)=O)CC3)C(F)=C2,Aryl,409.42,4,0.602059991,,,64,,,,,2,,,,4,,1,,,,,,,,8,16,,,
+123,D123,O=C(C)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCNN(C(CO)=O)CC3)C(F)=C2,Aryl,427.41,1,0,,,16,,,,,2,,,,4,,0.25,,,,,,,,4,8,,,
+124,D124,O=C(C)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCON(C(CO)=O)CC3)C(F)=C2,Aryl,428.39,2,0.301029996,,,32,,,,,4,,,,2,,1,,,,,,,,8,16,,,
+125,D125,O=C(C)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCONCC3)C(F)=C2,Aryl,370.36,1,0,,,16,,,,,2,,,,1,,0.25,,,,,,,,4,16,,,
+126,D126,S=C(C)NC[C@H](OC1=O)CN1C2=CC=C(N3CCNN(C(CO)=O)CC3)C(F)=C2,Aryl + Tail,425.48,0.5,-0.301029996,,,8,,,,,0.25,,,,0.5,,0.063,,,,,,,,1,2,,,
+127,D127,S=C(C)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCNN(C(CO)=O)CC3)C(F)=C2,Aryl + Tail,443.47,0.125,-0.903089987,,,1,,,,,0.25,,,,0.125,,0.063,,,,,,,,0.5,2,,,
+128,D128,S=C(C)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCON(C(CO)=O)CC3)C(F)=C2,Aryl + Tail,444.45,0.125,-0.903089987,,,2,,,,,0.25,,,,0.25,,0.063,,,,,,,,1,4,,,
+129,D129,S=C(C)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCONCC3)C(F)=C2,Aryl + Tail,386.42,0.25,-0.602059991,,,4,,,,,0.25,,,,0.125,,0.063,,,,,,,,1,2,,,
+130,D130,S=C(OC)NC[C@H](OC1=O)CN1C2=CC=C(N3CCNN(C(CO)=O)CC3)C(F)=C2,Aryl + Tail,441.48,0.25,-0.602059991,,,2,,,,,0.5,,,,0.25,,0.125,,,,,,,,2,4,,,
+131,D131,S=C(OC)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCNN(C(CO)=O)CC3)C(F)=C2,Aryl + Tail,489.47,0.25,-0.602059991,,,2,,,,,0.25,,,,0.25,,0.063,,,,,,,,1,4,,,
+132,D132,S=C(OC)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCON(C(CO)=O)CC3)C(F)=C2,Aryl + Tail,460.45,0.25,-0.602059991,,,2,,,,,0.5,,,,0.25,,0.125,,,,,,,,1,4,,,
+133,D133,O=C(OC)NC[C@H](OC1=O)CN1C2=CC(F)=C(N3CCONCC3)C(F)=C2,Aryl + Tail,386.36,0.25,-0.602059991,,,4,,,,,0.5,,,,0.25,,0.125,,,,,,,,1,8,,,
+134,D134,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCNN(C(CO)=O)CC4)C(F)=C3,Aryl + Tail,419.42,2,0.301029996,,,64,,,,,4,,,,4,,1,,,,,,,,8,16,,,
+135,D135,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC(F)=C(N4CCNN(C(CO)=O)CC4)C(F)=C3,Aryl + Tail,437.41,1,0,,,16,,,,,1,,,,1,,0.5,,,,,,,,4,8,,,
+136,D136,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC(F)=C(N4CCON(C(CO)=O)CC4)C(F)=C3,Aryl + Tail,438.39,1,0,,,16,,,,,2,,,,2,,1,,,,,,,,8,16,,,
+137,D137,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC(F)=C(N4CCONCC4)C(F)=C3,Aryl + Tail,380.36,1,0,,,16,,,,,2,,,,1,,0.5,,,,,,,,4,8,,,
+138,D138,O=C1O[C@@H](CC2=NOC=C2)CN1C3=CC=C(N4CCNN(C(CO)=O)CC4)C(F)=C3,Aryl + Tail,419.41,1,0,,,64,,,,,2,,,,2,,0.5,,,,,,,,16,32,,,
+139,D139,O=C1O[C@@H](CC2=NOC=C2)CN1C3=CC(F)=C(N4CCNN(C(CO)=O)CC4)C(F)=C3,Aryl + Tail,437.4,0.5,-0.301029996,,,8,,,,,0.25,,,,1,,0.125,,,,,,,,16,16,,,
+140,D140,O=C1O[C@@H](CC2=NOC=C2)CN1C3=CC(F)=C(N4CCON(C(CO)=O)CC4)C(F)=C3,Aryl + Tail,438.39,0.25,-0.602059991,,,8,,,,,0.5,,,,1,,0.25,,,,,,,,4,16,,,
+141,D141,O=C1O[C@@H](CCC2=NOC=C2)CN1C3=CC(F)=C(N4CCONCC4)C(F)=C3,Aryl + Tail,494.38,0.5,-0.301029996,,,16,,,,,0.5,,,,1,,0.125,,,,,,,,4,16,,,
+142,D142,O=C1O[C@@H](CNC(C)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,352.35,16,1.204119983,16,,,8,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25922"
+143,D143,O=C1O[C@@H](CNC(CC)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,366.38,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25923"
+144,D144,O=C1O[C@@H](CNC(CCC)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,380.41,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25924"
+145,D145,O=C1O[C@@H](CNC(CCCC)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,394.44,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25925"
+146,D146,O=C1O[C@@H](CNC(CC(C)C)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,394.44,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25926"
+147,D147,O=C1O[C@@H](CNC(C(C)C)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,380.41,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25927"
+148,D148,O=C1O[C@@H](CNC(CCl)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,386.8,4,0.602059991,4,,,4,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25928"
+149,D149,O=C1O[C@@H](CNC(C(Cl)Cl)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,421.24,4,0.602059991,8,,,4,,,,8,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25929"
+150,D150,O=C1O[C@@H](CNC(C2CC2)=O)CN1C(C=C3)=CC=C3C4=NN=C5N4C=CC=N5,Other,378.39,16,1.204119983,8,,,8,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25930"
+151,D151,O=C1O[C@@H](CNC(C2CCC2)=O)CN1C(C=C3)=CC=C3C4=NN=C5N4C=CC=N5,Other,392.42,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25931"
+152,D152,O=C1O[C@@H](CNC(C2=CC=CC=C2)=O)CN1C(C=C3)=CC=C3C4=NN=C5N4C=CC=N5,Other,414.43,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25932"
+153,D153,O=C1O[C@@H](CNC(C)=S)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,368.42,1,0,0.5,,,0.5,,,,1,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25933"
+154,D154,O=C1O[C@@H](CNC(CC)=S)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,382.44,4,0.602059991,2,,,2,,,,4,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25934"
+155,D155,O=C1O[C@@H](CNC(OC)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,368.35,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25935"
+156,D156,O=C1O[C@@H](CNC(OCC)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,382.38,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25936"
+157,D157,O=C1O[C@@H](CNC(OCC2=CC=CC=C2)=O)CN1C(C=C3)=CC=C3C4=NN=C5N4C=CC=N5,Other,444.45,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25937"
+158,D158,O=C1O[C@@H](CNC(NC(C)C)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,395.42,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25938"
+159,D159,O=C1O[C@@H](CNC(NC(C)(C)C)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,409.45,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25939"
+160,D160,O=C1O[C@@H](CNC(NCCCC)=O)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,409.45,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25940"
+161,D161,O=C1O[C@@H](CNC(NC(C)C)=S)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,411.48,16,1.204119983,16,,,16,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25941"
+162,D162,O=C1O[C@@H](CNC(NCCCC)=S)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,425.51,16,1.204119983,8,,,8,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25942"
+163,D163,O=C1O[C@@H](CNC(NCCC(C)=O)=S)CN1C(C=C2)=CC=C2C3=NN=C4N3C=CC=N4,Other,439.49,16,1.204119983,16,,,8,,,,16,,,,,,,,,>16,,,,,,,,,"E. faecalis ATCC 29212, S. aureus MRSA 43300, S. aureus ATCC 25923, S. epidermedis ATCC 12228, E. coli ATCC 25943"
+164,D164,O=C1O[C@@H](CNC(CC)=O)CN1C2=CC=C(C3=CN4C(C=C3)=CC=N4)C(F)=C2,Aryl,382.4,0.25,-0.602059991,0.25,,2,,,,,0.5,,,,,0.25,1,,,,,,,,2,8,,,"Staphylococcus aureus SR20549, Staphylococcus aureus SR3637 (methicillin-resistant), Enterococcus faecalis SR1004."
+165,D165,O=C1O[C@@H](CNC(CC)=O)CN1C2=CC=C(C3=CN4C(C=C3)=CN=C4)C(F)=C2,Aryl,382.4,0.25,-0.602059991,0.5,,4,,,,,0.5,,,,,0.5,0.063,,,,,,,,4,8,,,
+166,D166,O=C1O[C@@H](CNC(CC)=O)CN1C2=CC=C(C3=CN4C(C=C3)=NC=C4)C(F)=C2,Aryl,382.4,0.5,-0.301029996,0.5,,8,,,,,0.5,,,,,0.25,0.063,,,,,,,,8,4,,,
+167,D167,O=C1O[C@@H](CNC(CC)=O)CN1C2=CC=C(C3=CC4=NC=CN4C=C3)C(F)=C2,Aryl,382.4,0.25,-0.602059991,0.25,,2,,,,,0.25,,,,,0.5,0.063,,,,,,,,2,2,,,
+168,D168,O=C1O[C@@H](CNC(CC)=O)CN1C2=CC=C(C3=CN4C(C=C3)=NC=N4)C(F)=C2,Aryl,383.38,0.5,-0.301029996,0.5,,8,,,,,0.5,,,,,0.5,0.063,,,,,,,,8,4,,,
+169,D169,O=C1O[C@@H](CNC(CC)=O)CN1C2=CC=C(C3=CC4=NC=NN4C=C3)C(F)=C2,Aryl,383.38,0.25,-0.602059991,0.25,,4,,,,,0.25,,,,,0.25,0.063,,,,,,,,4,4,,,
+170,D170,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(C4=CN5C(C=C4)=NC=C5)C(F)=C3,Aryl + Tail,378.37,0.25,-0.602059991,0.25,,4,,,,,0.5,,,,,0.5,0.063,,,,,,,,4,4,,,
+171,D171,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(C4=CC5=NC=CN5C=C4)C(F)=C3,Aryl + Tail,378.37,0.125,-0.903089987,0.125,,2,,,,,0.25,,,,,0.25,0.063,,,,,,,,2,2,,,
+172,D172,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(C4=CN5C(C=C4)=NC=N5)C(F)=C3,Aryl + Tail,379.36,0.25,-0.602059991,0.25,,8,,,,,0.5,,,,,0.25,0.063,,,,,,,,8,4,,,
+173,D173,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(C4=CC5=NC=NN5C=C4)C(F)=C3,Aryl + Tail,379.36,0.125,-0.903089987,0.25,,2,,,,,0.25,,,,,0.25,0.063,,,,,,,,4,2,,,
+174,D174,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(NC(C4)=O)=C4C=C3)C(F)=C2,Aryl + Tail,342.33,1,0,32,,4,0.06,,,,0.25,,,,0.25,,0.125,,0.125,,,,,,,2,,,"Staphylococcus aureus ATCC 33591, MRSA 1201984, Enterococcus faecalis ATCC 2921, Staphylococcus epidermidis ATCC 14990"
+175,D175,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(NC(O4)=O)=C4C=C3)C(F)=C2,Aryl + Tail,344.08,1,0,32,,4,0.06,,,,0.5,,,,0.25,,0.125,,0.125,,,,,,,4,,,
+176,D176,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(NC(CO4)=O)=C4C=C3)C(F)=C2,Aryl + Tail,358.1,0.125,-0.903089987,0.5,,1,0.06,,,,0.06,,,,0.06,,0.06,,<0.06,,,,,,,0.5,,,
+177,D177,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(NC(C=C4)=O)=C4N=C3)C(F)=C2,Aryl + Tail,355.1,0.5,-0.301029996,16,,8,0.25,,,,0.5,,,,0.125,,0.25,,0.25,,,,,,,0.5,,,
+178,D178,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(C(NC(C)=N4)=O)=C4C=C3)C(F)=C2,Aryl + Tail,369.11,0.25,-0.602059991,0.25,,2,0.125,,,,0.5,,,,0.25,,0.25,,0.25,,,,,,,0.5,,,
+179,D179,O=C1O[C@@H](CO)CN1C2=CC=C(C3=C(NC(CO4)=O)C4=CC=C3)C(F)=C2,Aryl + Tail,358.1,32,1.505149978,32,,32,32,,,,32,,,,32,,32,,>32,,,,,,,>32,,,
+180,D180,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC=C(NC(CO4)=O)C4=C3)C(F)=C2,Aryl + Tail,358.1,0.5,-0.301029996,0.5,,16,0.5,,,,1,,,,1,,2,,2,,,,,,,0.25,,,
+181,D181,O=C1O[C@@H](CO)CN1C2=CC=C(C3=C4C(NC(CO4)=O)=CC=C3)C(F)=C2,Aryl + Tail,358.1,2,0.301029996,8,,32,2,,,,16,,,,32,,8,,8,,,,,,,1,,,
+182,D182,O=C1O[C@@H](CO)CN1C2=CC=C(C3=NC(NC(CO4)=O)=C4C=C3)C(F)=C2,Aryl + Tail,359.09,0.5,-0.301029996,0.25,,4,0.06,,,,0.25,,,,0.25,,0.25,,0.25,,,,,,,1,,,
+183,D183,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(NC(C(C)(C)O4)=O)=C4C=C3)C(F)=C2,Aryl + Tail,386.13,0.25,-0.602059991,0.25,,16,0.06,,,,0.5,,,,0.25,,0.25,,0.25,,,,,,,0.125,,,
+184,D184,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(NC(C4(CC4)O5)=O)=C5C=C3)C(F)=C2,Aryl + Tail,384.11,0.25,-0.602059991,0.06,,2,0.06,,,,0.125,,,,0.06,,0.25,,0.25,,,,,,,0.5,,,
+185,D185,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(NC(CCO4)=O)=C4C=C3)C(F)=C2,Aryl + Tail,372.11,0.125,-0.903089987,0.125,,2,0.06,,,,0.25,,,,0.125,,0.25,,0.25,,,,,,,0.5,,,
+186,D186,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(C(NCCO4)=O)=C4C=C3)C(F)=C2,Aryl + Tail,372.11,0.5,-0.301029996,0.5,,4,0.25,,,,0.5,,,,0.5,,0.5,,0.5,,,,,,,1,,,
+187,D187,O=C1O[C@@H](CO)CN1C2=CC=C(C3=CC(OCCO4)=C4C=C3)C(F)=C2,Aryl + Tail,345.1,4,0.602059991,32,,32,0.06,,,,4,,,,2,,0.5,,0.5,,,,,,,8,,,
+188,D188,O=C1O[C@@H](CNC(C)=O)CN1C(C=C2F)=CC=C2C3=CC(NC(CO4)=O)=C4C=C3,Aryl + Tail,399.12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+189,D189,O=C1O[C@@H](CNC(CC)=O)CN1C(C=C2F)=CC=C2C3=CC(NC(CO4)=O)=C4C=C3,Aryl + Tail,413.14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+190,D190,O=C1O[C@@H](CNC(C(F)F)=O)CN1C(C=C2F)=CC=C2C3=CC(NC(CO4)=O)=C4C=C3,Aryl + Tail,432.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+191,D191,O=C1O[C@@H](CNC(CO)=O)CN1C(C=C2F)=CC=C2C3=CC(NC(CO4)=O)=C4C=C3,Aryl + Tail,415.12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,D192,O=C1O[C@@H](CNC(OC)=O)CN1C(C=C2F)=CC=C2C3=CC(NC(CO4)=O)=C4C=C3,Aryl + Tail,415.12,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+193,D193,O=C1O[C@@H](CNC(C)=S)CN1C(C=C2F)=CC=C2C3=CC(NC(CO4)=O)=C4C=C3,Aryl + Tail,415.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,D194,O=C1O[C@@H](CN2N=NC=C2)CN1C(C=C3)=CC(F)=C3N4CCN(C(C(F)(F)F)=O)CC4,Other,442.14,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+195,D195,O=C1O[C@@H](CN2N=NC=C2)CN1C(C=C3)=CC(F)=C3N4CCN(C(C(F)(F)F)=O)CC4,Morpholino + Tail,499.25,,,4,4,,,,,,,2,2,,,,2,,,>64,,,,,32,>64,,,E. coli ATCC 25922
+196,D196,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNCC(OC(C)(C)C)=O)=O)CC4)C=C3,Morpholino + Tail,513.27,,,8,8,,,,,,,1,8,,,,8,,,>64,,,,,16,64–>64,,,
+197,D197,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(C)=O)=O)CC4)C=C3,Morpholino + Tail,427.2,,,4,4,,,,,,,4,4,,,,1,,,>64,,,,,32,64,,,
+198,D198,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C)=O)=O)CC4)C=C3,Morpholino + Tail,441.21,,,4,4,,,,,,,4,4,,,,1,,,>64,,,,,16,32,,,
+199,D199,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C(F)(F)F)=O)=O)CC4)C=C3,Morpholino + Tail,495.18,,,8,8,,,,,,,8,8,,,,2,,,>64,,,,,16,32–64,,,
+200,D200,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C(Cl)(Cl)[H])=O)=O)CC4)C=C3,Morpholino + Tail,509.13,,,8,8,,,,,,,8,8,,,,2,,,>64,,,,,16,32–>64,,,
+201,D201,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(CC(OCC)=O)=O)=O)CC4)C=C3,Morpholino + Tail,499.22,,,8,8,,,,,,,8,8,,,,2,,,>64,,,,,32,64,,,
+202,D202,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(CC(OCC)=O)=O)=O)CC4)C=C3,Morpholino + Tail,513.56,,,8,8,,,,,,,4,4,,,,4,,,>64,,,,,>64,>64,,,
+203,D203,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(C5CCCO5)=O)=O)CC4)C=C3,Morpholino + Tail,483.22,,,8,8,,,,,,,8,8,,,,2,,,>64,,,,,16,32–64,,,
+204,D204,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C5CCCO5)=O)=O)CC4)C=C3,Morpholino + Tail,497.56,,,16,32,,,,,,,16,32,,,,2,,,>64,,,,,32,32–64,,,
+205,D205,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=CC=C5)=O)=O)CC4)C=C3,Morpholino + Tail,489.54,,,1,1,,,,,,,0.5,1,,,,1,,,>64,,,,,32,32,,,
+206,D206,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=CC=C5)=O)=O)CC4)C=C3,Morpholino + Tail,503.56,,,2,1,,,,,,,0.5,0.5,,,,2,,,>64,,,,,8,32–64,,,
+207,D207,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C5)=O)=O)CC4)C=C3,Morpholino + Tail,579.53,,,1,1,,,,,,,1,1,,,,0.25,,,>64,,,,,0.5,16,,,
+208,D208,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC([N+]([O-])=O)=CC([N+]([O-])=O)=C5)=O)=O)CC4)C=C3,Morpholino + Tail,593.56,,,2,2,,,,,,,2,2,,,,0.25,,,>64,,,,,1,16–>64,,,
+209,D209,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=CC=N5)=O)=O)CC4)C=C3,Morpholino + Tail,490.52,,,2,2,,,,,,,2,2,,,,0.25,,,>64,,,,,8,8,,,
+210,D210,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=CC=N5)=O)=O)CC4)C=C3,Morpholino + Tail,504.55,,,2,2,,,,,,,2,,,,,0.5,,,>64,,,,,8,8–16,,,
+211,D211,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=CS5)=O)=O)CC4)C=C3,Morpholino + Tail,495.56,,,1,1,,,,,,,1,1,,,,0.5,,,>64,,,,,8,16,,,
+212,D212,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=CS5)=O)=O)CC4)C=C3,Morpholino + Tail,509.59,,,2,2,,,,,,,1,1,,,,1,,,>64,,,,,8,16,,,
+213,D213,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=CO5)=O)=O)CC4)C=C3,Morpholino + Tail,479.5,,,2,2,,,,,,,1,1,,,,0.5,,,>64,,,,,16,16,,,
+214,D214,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=CO5)=O)=O)CC4)C=C3,Morpholino + Tail,493.52,,,4,4,,,,,,,4,4,,,,0.5,,,16,,,,,8,4–8,,,
+215,D215,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=C([N+]([O-])=O)O5)=O)=O)CC4)C=C3,Morpholino + Tail,524.49,,,0.25,0.25,,,,,,,0.25,0.25,,,,0.25,,,>64,,,,,1,8,,,
+216,D216,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNC(C5=CC=C([N+]([O-])=O)O5)=O)=O)CC4)C=C3,Morpholino + Tail,538.52,,,0.25,0.25,,,,,,,0.5,0.5,,,,0.25,,,>64,,,,,0.5,2–8,,,
+217,D217,O=C1O[C@@H](CN2N=NC=C2)CN1C3=CC=C(N4CCN(C(CNS(=O)(C5=CC=CS5)=O)=O)CC4)C=C3,Morpholino + Tail,531.61,,,4,4,,,,,,,2,2,,,,1,,,>64,,,,,32,64–>64,,,
+218,D218,O=C1O[C@@H](CN2N=NC(C)=C2)CN1C3=CC=C(N4CCN(C(CNS(=O)(C5=CC=CS5)=O)=O)CC4)C=C3,Morpholino + Tail,545.63,,,16,16,,,,,,,8,8,,,,2,,,>64,,,,,32,64,,,
+219,D219,O=C1O[C@@H](CO)CN1C(C=C2)=CC(F)=C2C3=C(C)N=C(C)C(C)=N3,Other,331.35,64,1.806179974,64,,,128,,,,64,,,,,,,,,>16,,,,,,,,,
+220,D220,O=C1O[C@@H](CN2C=CN=N2)CN1C(C=C3)=CC([H])=C3C4=C(C)N=C(C)C(C)=N4,Other,364.41,64,1.806179974,32,,,64,,,,128,,,,,,,,,>16,,,,,,,,,
+221,D221,O=C1O[C@@H](CN2C=CN=N2)CN1C(C=C3)=CC(F)=C3C4=C(C)N=C(C)C(C)=N4,Other,382.4,8,0.903089987,4,,,8,,,,32,,,,,,,,,>16,,,,,,,,,
+222,D222,O=C1O[C@@H](CN2C=C(CCCC)N=N2)CN1C(C=C3)=CC(F)=C3C4=C(C)N=C(C)C(C)=N4,Other,438.51,128,2.10720997,128,,,128,,,,128,,,,,,,,,>16,,,,,,,,,
+223,D223,O=C1O[C@@H](CNC(C)=O)CN1C(C=C2)=CC([H])=C2C3=C(C)N=C(C)C(C)=N3,Other,354.41,16,1.204119983,8,,,16,,,,32,,,,,,,,,>16,,,,,,,,,
+224,D224,O=C1O[C@@H](CNC(C)=O)CN1C(C=C2)=CC(F)=C2C3=C(C)N=C(C)C(C)=N3,Other,372.4,8,0.903089987,4,,,4,,,,16,,,,,,,,,>16,,,,,,,,,
+225,D225,O=C1O[C@@H](CNC(Cl)=O)CN1C(C=C2)=CC([H])=C2C3=C(C)N=C(C)C(C)=N3,Other,374.83,8,0.903089987,8,,,8,,,,16,,,,,,,,,>16,,,,,,,,,
+226,D226,O=C1O[C@@H](CNC(Cl)=O)CN1C(C=C2)=CC(F)=C2C3=C(C)N=C(C)C(C)=N3,Other,392.82,8,0.903089987,2,,,4,,,,8,,,,,,,,,>16,,,,,,,,,
+227,D227,O=C1O[C@@H](CNC(C(Cl)Cl)=O)CN1C(C=C2)=CC([H])=C2C3=C(C)N=C(C)C(C)=N3,Other,423.29,8,0.903089987,4,,,8,,,,16,,,,,,,,,>16,,,,,,,,,
+228,D228,O=C1O[C@@H](CNC(C(Cl)Cl)=O)CN1C(C=C2)=CC(F)=C2C3=C(C)N=C(C)C(C)=N3,Other,441.28,4,0.602059991,2,,,4,,,,8,,,,,,,,,>16,,,,,,,,,
+229,D229,O=C1O[C@@H](CNC(OC)=O)CN1C(C=C2)=CC([H])=C2C3=C(C)N=C(C)C(C)=N3,Other,370.41,128,2.10720997,64,,,128,,,,128,,,,,,,,,>16,,,,,,,,,
+230,D230,O=C1O[C@@H](CNC(OC)=O)CN1C(C=C2)=CC(F)=C2C3=C(C)N=C(C)C(C)=N3,Other,388.4,128,2.10720997,32,,,32,,,,128,,,,,,,,,>16,,,,,,,,,
+231,D231,O=C1O[C@@H](CNC(C2=CC=CO2)=O)CN1C(C=C3)=CC([H])=C3C4=C(C)N=C(C)C(C)=N4,Other,406.44,128,2.10720997,64,,,64,,,,128,,,,,,,,,>16,,,,,,,,,
+232,D232,O=C1O[C@@H](CNC(C2=CC=CO2)=O)CN1C(C=C3)=CC(F)=C3C4=C(C)N=C(C)C(C)=N4,Other,424.43,32,1.505149978,32,,,16,,,,128,,,,,,,,,>16,,,,,,,,,
+233,D233,O=C1O[C@@H](CNC(C)=O)CN1C(C=C2C)=CC(F)=C2C3CC[Si](C)(C)CC3,Other,392.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+234,D234,O=C1O[C@@H](CNC(C)=O)CN1C(C=C2F)=CC(F)=C2C3CC[Si](C4=CC=CC=C4)(C)CC3,Other,458.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+235,D235,O=C1O[C@@H](CNC(C)=O)CN1C(C=C2F)=CC(F)=C2C3CC[Si](C)(C)CC3,Other,396.51,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+236,D236,O=C1O[C@@H](CNC(OC)=O)CN1C(C=C2C)=CC(F)=C2C3CC[Si](C)(C)CC3,Other,408.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+237,D237,O=C1O[C@@H](CNC(OC)=O)CN1C(C=C2C)=CC(F)=C2C3CC[Si](C)(C)CC3,Other,408.55,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+238,D238,O=C1O[C@@H](CNC(OC)=O)CN1C(C=C2F)=CC(F)=C2C3CC[Si](C)(C)CC3,Other,412.51,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+239,D239,O=C1O[C@@H](CNC(N)=O)CN1C(C=C2)=CC(F)=C2C3CC[Si](C)(C)CC3,Other,379.51,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+240,D240,O=C1O[C@@H](CNC(N)=O)CN1C(C=C2F)=CC(F)=C2C3CC[Si](C)(C)CC3,Other,397.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+241,D241,O=C1O[C@@H](CNC2=NOC=C2)CN1C(C(F)=C3F)=CC(F)=C3N4CCC(CC4)=O,Aryl + Tail,410.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+242,D242,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CC[*]CC4)C=C3,Base,,4,0.602059991,8,,,,,8,,16,,,,,,,16,,,,,,,,,,,"Abbreviations: S.a., Staphylococcus aureus. ATCC 29213. MRSA, methicillin-resistant Staphylococcus aureus, 6 strains. MRSE, methicillin-resistant Staphylococcus epidermidis, 5 strains. PRSP, penicillin-resistant Streptococcus pneumoniae, 4 strains. E.f., Enterococcus faecalis, 6 strains."
+243,D243,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCN(CC5=CC([N+]([O-])=O)=CC=C5)CC4)C=C3,Base,481.51,16,1.204119983,16,,,,,16,,16,,,,,,,16,,,,,,,,,,,
+244,D244,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCN(CC5=C([N+]([O-])=O)C=CC=C5)CC4)C=C3,Base,481.51,8,0.903089987,16,,,,,16,,16,,,,,,,16,,,,,,,,,,,
+245,D245,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCN(CC5=CC=NC=C5)CC4)C=C3,Base,437.5,16,1.204119983,16,,,,,16,,16,,,,,,,16,,,,,,,,,,,
+246,D246,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCN(CC5=CC=CN=C5)CC4)C=C3,Base,437.5,16,1.204119983,16,,,,,16,,16,,,,,,,16,,,,,,,,,,,
+247,D247,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCN(CC5=CC=CC=N5)CC4)C=C3,Base,437.5,16,1.204119983,16,,,,,16,,16,,,,,,,16,,,,,,,,,,,
+248,D248,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCN(CC5=CC=CO5)CC4)C=C3,Base,426.47,16,1.204119983,16,,,,,16,,16,,,,,,,16,,,,,,,,,,,
+249,D249,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCN(CC5=COC=C5)CC4)C=C3,Base,426.47,16,1.204119983,16,,,,,16,,16,,,,,,,16,,,,,,,,,,,
+250,D250,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCN(CC5=CC=C([N+]([O-])=O)O5)CC4)C=C3,Base,,4,0.602059991,16,,,,,16,,16,,,,,,,16,,,,,,,,,,,
+251,D251,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=CS4)C([H])=C3,Base,,1,0,4,,,,,4,,8,,,,,,,8,,,,,,,,,,,
+252,D252,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CSC=C4)C([H])=C3,Base,,2,0.301029996,4,,,,,4,,8,,,,,,,8,,,,,,,,,,,
+253,D253,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=CC=C4)C([H])=C3,Base,,0.5,-0.301029996,2,,,,,2,,2,,,,,,,2,,,,,,,,,,,
+254,D254,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC([N+]([O-])=O)=CC=C4)C([H])=C3,Base,,0.5,-0.301029996,2,,,,,2,,2,,,,,,,2,,,,,,,,,,,
+255,D255,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C#N)C=C4)C([H])=C3,Base,,0.25,-0.602059991,1,,,,,1,,1,,,,,,,1,,,,,,,,,,,
+256,D256,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C(C)=O)C=C4)C([H])=C3,Base,,1,0,2,,,,,2,,2,,,,,,,2,,,,,,,,,,,
+257,D257,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC(N)=CC=C4)C([H])=C3,Base,,0.5,-0.301029996,2,,,,,2,,2,,,,,,,2,,,,,,,,,,,
+258,D258,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=NC=C4)C([H])=C3,Base,,0.5,-0.301029996,1,,,,,1,,1,,,,,,,1,,,,,,,,,,,
+259,D259,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=CN=C4)C([H])=C3,Base,,0.5,-0.301029996,1,,,,,1,,2,,,,,,,2,,,,,,,,,,,
+260,D260,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C([N+]([O-])=O)N=C4)C([H])=C3,Base,,0.125,-0.903089987,0.5,,,,,1,,1,,,,,,,0.5,,,,,,,,,,,
+261,D261,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C#N)N=C4)C([H])=C3,Base,,0.125,-0.903089987,0.5,,,,,0.5,,0.5,,,,,,,0.5,,,,,,,,,,,
+262,D262,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C(C)=O)N=C4)C([H])=C3,Base,,0.5,-0.301029996,0.5,,,,,0.5,,0.5,,,,,,,0.5,,,,,,,,,,,
+263,D263,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N)N=C4)C([H])=C3,Base,,0.5,-0.301029996,0.5,,,,,0.5,,1,,,,,,,0.5,,,,,,,,,,,
+264,D264,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CN=CN=C4)C([H])=C3,Base,,0.25,-0.602059991,1,,,,,0.5,,1,,,,,,,1,,,,,,,,,,,
+265,D265,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=C(OC)N=C(OC)N=C4)C([H])=C3,Base,,1,0,1,,,,,1,,1,,,,,,,1,,,,,,,,,,,
+266,D266,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CN=C(N)N=C4)C([H])=C3,Base,,1,0,2,,,,,1,,1,,,,,,,1,,,,,,,,,,,
+267,D267,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CN=C(C#N)N=C4)C([H])=C3,Base,,1,0,2,,,,,1,,2,,,,,,,2,,,,,,,,,,,
+268,D268,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=NC=C4)C(F)=C3,Base,,2,0.301029996,4,,,,,4,,2,,,,,,,2,,,,,,,,,,,
+269,D269,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=CN=C4)C(F)=C3,Base,,2,0.301029996,4,,,,,4,,8,,,,,,,8,,,,,,,,,,,
+270,D270,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C#N)N=C4)C(F)=C3,Base,,2,0.301029996,2,,,,,2,,4,,,,,,,4,,,,,,,,,,,
+271,D271,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,0.25,-0.602059991,0.5,,,,,0.5,,4,,,,,,,4,,,,,,,,,,,
+272,D272,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC(N5CCOC5=O)=CN=C4)C=C3,Base,,1,0,1,,,,,2,,1,,,,,,,1,,,,,,,,,,,
+273,D273,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C(OCC5)=O)C=N4)C=C3,Base,,1,0,2,,,,,1,,1,,,,,,,1,,,,,,,,,,,
+274,D274,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC(C#N)=CN=C4)C=C3,Base,,0.5,-0.301029996,1,,,,,1,,1,,,,,,,1,,,,,,,,,,,
+275,D275,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C#N)C=N4)C=C3,Base,,2,0.301029996,2,,,,,2,,0.5,,,,,,,0.5,,,,,,,,,,,
+276,D276,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC(C#N)=CC=N4)C=C3,Base,,0.5,-0.301029996,1,,,,,0.5,,1,,,,,,,1,,,,,,,,,,,
+277,D277,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC(C(C)=O)=CN=C4)C=C3,Base,,1,0,1,,,,,1,,1,,,,,,,0.5,,,,,,,,,,,
+278,D278,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C(C)=O)C=N4)C=C3,Base,,2,0.301029996,4,,,,,2,,1,,,,,,,1,,,,,,,,,,,
+279,D279,O=C1O[C@@H](CNC(C)=O)[C@@H]2N1C3=C(OC2)C=C(C4=CC=C(C#N)N=C4)C=C3,Base,,16,1.204119983,16,,,,,16,,1,,,,,,,1,,,,,,,,,,,
+280,D280,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C=NC=C5)N=C4)C=C3,Base,,0.5,-0.301029996,1,,,,,0.5,,1,,,,,,,2,,,,,,,,,,,
+281,D281,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(OC)N=C4)C=C3,Base,,0.25,-0.602059991,0.5,,,,,0.5,,2,,,,,,,2,,,,,,,,,,,
+282,D282,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(NC(C)=O)N=C4)C=C3,Base,,0.5,-0.301029996,1,,,,,1,,2,,,,,,,2,,,,,,,,,,,
+283,D283,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C5=NN(C)N=N5)N=C4)C=C3,Base,,0.5,-0.301029996,1,,,,,1,,0.5,,,,,,,0.5,,,,,,,,,,,
+284,D284,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C5=NN=NN5C)N=C4)C=C3,Base,,0.25,-0.602059991,0.5,,,,,0.25,,4,,,,,,,4,,,,,,,,,,,
+285,D285,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C5=NOC(C)=N5)N=C4)C=C3,Base,,0.25,-0.602059991,1,,,,,1,,1,,,,,,,1,,,,,,,,,,,
+286,D286,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(CC#N)N=C4)C=C3,Base,,0.25,-0.602059991,0.5,,,,,0.5,,0.5,,,,,,,0.5,,,,,,,,,,,
+287,D287,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C5(CC5)C#N)N=C4)C=C3,Base,,0.5,-0.301029996,0.5,,,,,1,,1,,,,,,,2,,,,,,,,,,,
+288,D288,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C5(CC5)N)N=C4)C=C3,Base,,0.25,-0.602059991,1,,,,,1,,2,,,,,,,2,,,,,,,,,,,
+289,D289,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5CCNCC5)N=C4)C=C3,Base,,0.5,-0.301029996,1,,,,,2,,1,,,,,,,1,,,,,,,,,,,
+290,D290,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C(N(C)C)=O)N=C4)C=C3,Base,,2,0.301029996,2,,,,,2,,2,,,,,,,4,,,,,,,,,,,
+291,D291,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C=NC=N5)N=C4)C=C3,Base,,0.5,-0.301029996,2,,,,,2,,1,,,,,,,0.5,,,,,,,,,,,
+292,D292,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C#CCO)N=C4)C=C3,Base,,0.5,-0.301029996,0.5,,,,,0.5,,2,,,,,,,2,,,,,,,,,,,
+293,D293,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C(F)(F)F)N=C4)C=C3,Base,,2,0.301029996,2,,,,,2,,4,,,,,,,4,,,,,,,,,,,
+294,D294,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C(OC)=O)N=C4)C=C3,Base,,0.5,-0.301029996,1,,,,,1,,16,,,,,,,16,,,,,,,,,,,
+295,D295,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C(O)CO)N=C4)C=C3,Base,358.35,,,1,1,,,0.5,0.5,,2,,,,,,,0.5,,,,,,,,,,,
+296,D296,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C([C@H](O)C)=O)N=C4)C=C3,Base,370.36,,,0.5,0.25,,,0.5,0.5,,1,,,,,,,0.5,,,,,,,,,,,
+297,D297,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(/C(C)=N/OCC)N=C4)C=C3,Base,383.4,,,32,32,,,32,32,,32,,,,,,,32,,,,,,,,,,,
+298,D298,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C5C[C@](NCCC6)([H])[C@]6([H])C5)N=C4)C=C3,Base,421.5,,,8,16,,,8,8,,16,,,,,,,16,,,,,,,,,,,
+299,D299,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,383.36,,,1,1,,,0.5,1,,1,,,,,,,1,,,,,,,,,,,
+300,D300,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C(OC(CO)C5)=O)N=C4)C=C3,Base,413.39,,,1,1,,,0.5,1,,1,,,,,,,1,,,,,,,,,,,
+301,D301,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C(O[C@H](CO)C5)=O)N=C4)C=C3,Base,,,,1,1,,,1,1,,1,,,,,,,1,,,,,,,,,,,
+302,D302,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C(O[C@@H](CO)C5)=O)N=C4)C=C3,Base,413.39,,,1,1,,,1,1,,1,,,,,,,1,,,,,,,,,,,
+303,D303,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C5OC(N(C)C5)=O)N=C4)C=C3,Base,,,,1,1,,,0.5,1,,1,,,,,,,2,,,,,,,,,,,
+304,D304,O=C1O[C@@H](CO)[C@H]2N1C3=C(OC2)C=C(C4=CC=C([C@H]5OC(N(C)C5)=O)N=C4)C=C3,Base,397.39,,,0.5,1,,,0.5,0.5,,1,,,,,,,1,,,,,,,,,,,
+305,D305,O=C1O[C@@H](COP([O-])([O-])=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C([C@H]5OC(N(C)C5)=O)N=C4)C=C3.[Na+].[Na+],Base,521.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+306,D306,O=S1(CCC(C2=CC=C(N3C[C@H](CN4C=CN=N4)OC3=O)C=C2F)=CC1)=O,Aryl + Tail,392.41,,,,1,,,,,,,,,,,,,0.5,,,,,,,,1,,,
+307,D307,NC([C@H](OC1=O)CN1C2=CC=C(C3=CC[S@+]([O-])CC3)C(F)=C2)=O,Aryl + Tail,,2,0.301029996,,,,,,,,4,,,,4,,2,,,,,,,,,,,,
+308,D308,FC1=CC(N2[C@@H]3[C@H](CN4C=CN=N4)OC2=O)=C(OC3)C=C1C5=CC=C(C#N)N=C5,Base,,,,0.5,0.5,,,0.5,0.5,,1,,,,,,,1,,,,,,,,,,,
+309,D309,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(C6=NN=NN6C)N=C5)C=C4,Base,,,,2,4,,,2,2,,4,,,,,,,2,,,,,,,,,,,
+310,D310,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(C6=NN(C)N=N6)N=C5)C=C4,Base,,,,2,2,,,2,4,,4,,,,,,,4,,,,,,,,,,,
+311,D311,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(C6=NOC(C)=N6)N=C5)C=C4,Base,,,,8,4,,,4,4,,8,,,,,,,2,,,,,,,,,,,
+312,D312,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(N6C(OC(CO)C6)=O)N=C5)C=C4,Base,,,,2,1,,,1,2,,1,,,,,,,1,,,,,,,,,,,
+313,D313,FC1=CC(N2[C@@H]3[C@H](CN4C=CN=N4)OC2=O)=C(OC3)C=C1C5=CC=C(C(C)=O)N=C5,Base,,,,1,1,,,1,1,,2,,,,,,,0.5,,,,,,,,,,,
+314,D314,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(CO)N=C5)C=C4,Base,,,,2,4,,,1,2,,4,,,,,,,4,,,,,,,,,,,
+315,D315,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(C(O)C)N=C5)C=C4,Base,,,,2,2,,,2,2,,4,,,,,,,2,,,,,,,,,,,
+316,D316,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(C(C)=O)N=C5)C=C4,Base,,,,0.5,0.5,,,1,2,,2,,,,,,,0.5,,,,,,,,,,,
+317,D317,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(C(C)=NOCC)N=C5)C=C4,Base,,,,32,32,,,32,32,,32,,,,,,,32,,,,,,,,,,,
+318,D318,FC1=CC(N2[C@@H]3[C@H](CN4C=CN=N4)OC2=O)=C(OC3)C=C1C5=CC=C(/C(C)=N\OC(C)C)N=C5,Base,,,,32,32,,,32,32,,32,,,,,,,32,,,,,,,,,,,
+319,D319,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(CN6N=CN=C6)N=C5)C=C4,Base,,,,1,1,,,0.5,1,,2,,,,,,,2,,,,,,,,,,,
+320,D320,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(CN6N=CN=N6)N=C5)C=C4,Base,,,,2,2,,,1,2,,2,,,,,,,2,,,,,,,,,,,
+321,D321,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(CN6N=NN=C6)N=C5)C=C4,Base,,,,4,4,,,2,2,,4,,,,,,,4,,,,,,,,,,,
+322,D322,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CC=C(CN6N=NC=C6)N=C5)C=C4,Base,,,,2,4,,,1,2,,4,,,,,,,4,,,,,,,,,,,
+323,D323,NC([C@H](OC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C#N)N=C4)C(F)=C3)=O,Base,,,,32,32,,,32,32,,32,,,,,,,32,,,,,,,,,,,
+324,D324,NC([C@H](OC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C5=NOC(C)=N5)N=C4)C(F)=C3)=O,Base,,,,32,32,,,32,32,,32,,,,,,,32,,,,,,,,,,,
+325,D325,NC([C@H](OC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5CCOC5=O)N=C4)C(F)=C3)=O,Base,,,,32,32,,,32,32,,32,,,,,,,32,,,,,,,,,,,
+326,D326,NC([C@H](OC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(CN5N=CN=C5)N=C4)C(F)=C3)=O,Base,,,,32,32,,,32,32,,32,,,,,,,32,,,,,,,,,,,
+327,D327,OC[C@H](OC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C([C@@H]5OC(N(C)C5)=O)N=C4)C=C3,Base,,0.5,-0.301029996,1,1,,,0.5,1,,2,,,,,,,1,,,,,,,,,,,
+328,D328,OC[C@H](SC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+329,D329,OC[C@H](SC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C#N)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+330,D330,OC[C@H](SC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C([C@@H]5OC(N(C)C5)=O)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+331,D331,OC[C@H](NC1=O)[C@H]2N1C3=C(OC2)C=C(C4=CC=C(C#N)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+332,D332,OC[C@H](OC1=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+333,D333,OC[C@H](OC1=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(C#N)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+334,D334,OC[C@H](OC1=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(C5(CC5)C#N)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+335,D335,OC[C@H](OC1=O)[C@H]2N1C3=C(N(C(OC(C)(C)C)=O)C2)C=C(C4=CC=C(C5(CC5)C#N)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+336,D336,OC[C@H](OC1=O)[C@H]2N1C3=C(NC2)C=C(C4=CC=C(C5(CC5)C#N)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+337,D337,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(C(C)=O)N=C4)C=C3,Base,,8,0.903089987,8,8,,,4,8,,8,,,,,,,2,,,,,,,,,,,
+338,D338,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C([C@@H]5OC(N(C)C5)=O)N=C4)C=C3,Base,,4,0.602059991,4,4,,,4,4,,4,,,,,,,4,,,,,,,,,,,
+339,D339,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(OC)N=C4)C=C3,Base,,8,0.903089987,8,8,,,4,8,,8,,,,,,,4,,,,,,,,,,,
+340,D340,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(F)N=C4)C=C3,Base,,4,0.602059991,4,4,,,4,2,,8,,,,,,,2,,,,,,,,,,,
+341,D341,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(C#N)N=C4)C=C3,Base,,8,0.903089987,8,4,,,4,4,,8,,,,,,,2,,,,,,,,,,,
+342,D342,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,4,0.602059991,4,4,,,4,4,,4,,,,,,,2,,,,,,,,,,,
+343,D343,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(C5(CC5)C#N)N=C4)C=C3,Base,,4,0.602059991,4,4,,,4,4,,4,,,,,,,2,,,,,,,,,,,
+344,D344,O=C1O[C@@H](CNC(C)=S)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(OC)N=C4)C=C3,Base,,4,0.602059991,8,4,,,4,4,,8,,,,,,,2,,,,,,,,,,,
+345,D345,O=C1O[C@@H](CNC(C)=S)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(F)N=C4)C=C3,Base,,8,0.903089987,8,8,,,4,8,,8,,,,,,,1,,,,,,,,,,,
+346,D346,O=C1O[C@@H](CNC(C)=S)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(C#N)N=C4)C=C3,Base,,8,0.903089987,8,8,,,8,8,,16,,,,,,,4,,,,,,,,,,,
+347,D347,O=C1O[C@@H](CNC(C)=S)[C@H]2N1C3=C(SC2)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,2,0.301029996,2,2,,,1,2,,2,,,,,,,1,,,,,,,,,,,
+348,D348,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(S(C2)=O)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+349,D349,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(S(C2)(=O)=O)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+350,D350,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(N(C(OC(C)(C)C)=O)C2)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+351,D351,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(NC2)C=C(C4=CC=C(N5C(OCC5)=O)N=C4)C=C3,Base,,16,1.204119983,16,16,,,16,16,,16,,,,,,,16,,,,,,,,,,,
+352,D352,O=C1O[C@@H](COC2=NOC=C2)CN1C3=CC(F)=C(C4=CCN(C([C@@H](O)CO)=O)CC4)C(F)=C3,Base,465.41,,,,,,,,,,,,,,,,,,,,,,,,,,1.023,,
+353,D353,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(C([C@@H](O)CO)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.483,,
+354,D354,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(C(CC)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,6.357,,
+355,D355,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(C(C5CC5)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,6.404,,
+356,D356,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(C(C5CCCC5)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,7.94,,
+357,D357,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(C([C@H]5CCCO5)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,5.525,,
+358,D358,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(C(CO)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.391,,
+359,D359,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(C(CN)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.732,,
+360,D360,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(C([C@H]5NCCC5)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,7.125,,
+361,D361,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(CCO)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.578,,
+362,D362,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(CCO)CC4)C=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.725,,
+363,D363,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(CCO)CC4)C=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,2.645,,
+364,D364,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4CCN(C(CO)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,3.841,,
+365,D365,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(C4CCN(CCO)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,14.602,,
+366,D366,O=C1O[C@@H](CNC(C(F)(F)F)=O)[C@H]2N1C3=C(OC2)C=C(C4CCN(C(CO)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,1.159,,
+367,D367,O=C1O[C@@H](CNC(C2CC2)=O)[C@H]3N1C4=C(OC3)C=C(C5CCN(C(CO)=O)CC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,1.868,,
+368,D368,O=C1O[C@@H](CNC(C2CCC2)=O)[C@H]3N1C4=C(OC3)C=C(C5CCN(C(CO)=O)CC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,1.68,,
+369,D369,O=C1O[C@@H](CNC(OC)=O)[C@H]2N1C3=C(OC2)C=C(C4CCN(C(CO)=O)CC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.99,,
+370,D370,O=C1O[C@@H](CNC2=NOC=C2)[C@H]3N1C4=C(OC3)C=C(C5CCN(C(CO)=O)CC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,1.044,,
+371,D371,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5CCN(C(CO)=O)CC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,10.9,,
+372,D372,O=C1O[C@@H](COC2=NOC=C2)[C@H]3N1C4=C(OC3)C=C(C5CCN(C(CO)=O)CC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,32,,
+373,D373,O=C1O[C@@H](CNC(C(F)(F)F)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(CCO)CC4)C=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,1.916,,
+374,D374,O=C1O[C@@H](CNC(C2CC2)=O)[C@H]3N1C4=C(OC3)C=C(C5=CCN(CCO)CC5)C=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.473,,
+375,D375,O=C1O[C@@H](CNC(C2CCC2)=O)[C@H]3N1C4=C(OC3)C=C(C5=CCN(CCO)CC5)C=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,1.104,,
+376,D376,O=C1O[C@@H](CNC(OC)=O)[C@H]2N1C3=C(OC2)C=C(C4=CCN(CCO)CC4)C=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,2.223,,
+377,D377,O=C1O[C@@H](CNC2=NOC=C2)[C@H]3N1C4=C(OC3)C=C(C5=CCN(CCO)CC5)C=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.98,,
+378,D378,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(C5=CCN(CCO)CC5)C=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,7.956,,
+379,D379,OC[C@H](OC1=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,3.79,,M. tuberculosis H37Rv
+380,D380,OC[C@H](OC1=O)[C@@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,M. tuberculosis H37Rv
+381,D381,NC[C@H](OC1=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.1,,M. tuberculosis H37Rv
+382,D382,NC[C@H](OC1=O)[C@@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,M. tuberculosis H37Rv
+383,D383,NC[C@H](OC1=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.03,,M. tuberculosis H37Rv
+384,D384,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.16,,M. tuberculosis H37Rv
+385,D385,O=C1O[C@@H](CNC(C)=O)[C@@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,M. tuberculosis H37Rv
+386,D386,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.04,,M. tuberculosis H37Rv
+387,D387,O=C1O[C@H](CNC(C)=O)[C@@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,M. tuberculosis H37Rv
+388,D388,O=C1O[C@@H](COC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,?1,,M. tuberculosis H37Rv
+389,D389,O=C1O[C@@H](CNS(C)(=O)=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,3.9,,M. tuberculosis H37Rv
+390,D390,O=C1O[C@@H](CNC(C(C)C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.1,,M. tuberculosis H37Rv
+391,D391,O=C1O[C@@H](CNC(C2CC2)=O)[C@H]3N1C4=C(OC3)C=C(N5CCSCC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.03,,M. tuberculosis H37Rv
+392,D392,O=C1O[C@@H](CNC(C2CCC2)=O)[C@H]3N1C4=C(OC3)C=C(N5CCSCC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.03,,M. tuberculosis H37Rv
+393,D393,O=C1O[C@@H](CNC(C2=CC=NC=C2)=O)[C@H]3N1C4=C(OC3)C=C(N5CCSCC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.16,,M. tuberculosis H37Rv
+394,D394,O=C1O[C@@H](CNC(C2=NC=CN=C2)=O)[C@H]3N1C4=C(OC3)C=C(N5CCSCC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.12,,M. tuberculosis H37Rv
+395,D395,O=C1O[C@@H](CNC(OC)=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.03,,M. tuberculosis H37Rv
+396,D396,O=C1O[C@@H](CNC)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,M. tuberculosis H37Rv
+397,D397,O=C1O[C@@H](CNC2=NOC=C2)[C@H]3N1C4=C(OC3)C=C(N5CCSCC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.03,,M. tuberculosis H37Rv
+398,D398,O=C1O[C@@H](CNN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(N5CCSCC5)C(F)=C4,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.23,,M. tuberculosis H37Rv
+399,D399,O=C1O[C@@H](CN(C(C)=O)C(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,,,,,,,,,,,,,,,,,,,,,,,,,,,0.34,,M. tuberculosis H37Rv
+400,D400,O=C1O[C@@H](CN(C(C)=O)C)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C(F)=C3,Base,395.45,,,,,,,,,,,,,,,,,,,,,,,,,,>1,,M. tuberculosis H37Rv
+401,D401,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCS(CC4)=O)C(F)=C3,Base,397.42,,,,,,,,,,,,,,,,,,,,,,,,,,0.44,,M. tuberculosis H37Rv
+402,D402,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCS(CC4)(=O)=O)C(F)=C3,Base,413.42,,,,,,,,,,,,,,,,,,,,,,,,,,0.93,,M. tuberculosis H37Rv
+403,D403,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCSCC4)C=C3,Base,363.43,,,,,,,,,,,,,,,,,,,,,,,,,,0.79,,M. tuberculosis H37Rv
+404,D404,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4C5CSCC4CC5)C(F)=C3,Base,407.46,,,,,,,,,,,,,,,,,,,,,,,,,,0.92,,M. tuberculosis H37Rv
+405,D405,O=C1O[C@@H](CNC(OC)=O)[C@H]2N1C3=C(OC2)C=C(N4C5CSCC4CC5)C(F)=C3,Base,423.46,,,,,,,,,,,,,,,,,,,,,,,,,,1.68,,M. tuberculosis H37Rv
+406,D406,O=C1O[C@@H](CNC(C(C)C)=O)[C@H]2N1C3=C(OC2)C=C(N4C5CSCC4CC5)C(F)=C3,Base,435.51,,,,,,,,,,,,,,,,,,,,,,,,,,1.48,,M. tuberculosis H37Rv
+407,D407,O=C1O[C@@H](CNC(C2CC2)=O)[C@H]3N1C4=C(OC3)C=C(N5C6CSCC5CC6)C(F)=C4,Base,433.5,,,,,,,,,,,,,,,,,,,,,,,,,,0.98,,M. tuberculosis H37Rv
+408,D408,O=C1O[C@@H](CNC(C2CCC2)=O)[C@H]3N1C4=C(OC3)C=C(N5C6CSCC5CC6)C(F)=C4,Base,447.53,,,,,,,,,,,,,,,,,,,,,,,,,,0.97,,M. tuberculosis H37Rv
+409,D409,O=C1O[C@@H](CNC(C2=CC=NC=C2)=O)[C@H]3N1C4=C(OC3)C=C(N5C6CSCC5CC6)C(F)=C4,Base,470.52,,,,,,,,,,,,,,,,,,,,,,,,,,2.83,,M. tuberculosis H37Rv
+410,D410,O=C1O[C@@H](CNC(C2=NC=CN=C2)=O)[C@H]3N1C4=C(OC3)C=C(N5C6CSCC5CC6)C(F)=C4,Base,471.51,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,M. tuberculosis H37Rv
+411,D411,O=C1O[C@@H](CNC2=NOC=C2)[C@H]3N1C4=C(OC3)C=C(N5C6CSCC5CC6)C(F)=C4,Base,432.47,,,,,,,,,,,,,,,,,,,,,,,,,,2.52,,M. tuberculosis H37Rv
+412,D412,O=C1O[C@@H](CN2C=CN=N2)[C@H]3N1C4=C(OC3)C=C(N5C6CSCC5CC6)C(F)=C4,Base,417.46,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,M. tuberculosis H37Rv
+413,D413,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCOCC4)C(F)=C3,Base,365.36,,,,,,,,,,,,,,,,,,,,,,,,,,0.89,,M. tuberculosis H37Rv
+414,D414,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CCC(F)(F)CC4)C(F)=C3,Base,399.37,,,,,,,,,,,,,,,,,,,,,,,,,,0.91,,M. tuberculosis H37Rv
+415,D415,O=C1O[C@@H](CNC(C)=O)[C@H]2N1C3=C(OC2)C=C(N4CC5(COC5)C4)C(F)=C3,Base,377.37,,,,,,,,,,,,,,,,,,,,,,,,,,3.92,,M. tuberculosis H37Rv
+416,D416,O=C1O[C@@H](CNC(C2CC2)=O)[C@H]3N1C4=C(OC3)C=C(N5CC6(COC6)C5)C(F)=C4,Base,403.41,,,,,,,,,,,,,,,,,,,,,,,,,,3.09,,M. tuberculosis H37Rv
+417,D417,O=C1O[C@@H](CNC(C2CCC2)=O)[C@H]3N1C4=C(OC3)C=C(N5CC6(COC6)C5)C(F)=C4,Base,417.44,,,,,,,,,,,,,,,,,,,,,,,,,,4.2,,M. tuberculosis H37Rv
+418,D418,O=C1O[C@@H](CN2CCN=N2)[C@H]3N1C4=C(OC3)C=C(N5CC6(COC6)C5)C(F)=C4,Base,389.39,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,M. tuberculosis H37Rv
+419,D419,O=C1O[C@@H](CNC(C)=O)CN1C2=CC=C(N3CCSCC3)C(F)=C2,Morpolino,353.41,,,,,,,,,,,,,,,,,,,,,,,,,,0.1,,
+420,D420,O=C1O[C@@H](CNC(C)=O)[C@H]2N1CC3=CC(C4=CC=C(C#N)N=C4)=C(F)C=C3C2,Base,380.38,0.125,-0.903089987,,,,,,,,,,,,,,,,,>64,,,0.125,,,,0.48,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+421,D421,O=C1O[C@@H](CN[H])[C@H]2N1CC3=CC(C4=CC=C(C#N)C=C4)=C(F)C=C3C2,Base,337.35,,,,,,,,,,,,,,,,,,,,,,,,,,0.26,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+422,D422,O=C1O[C@@H](CN[H])[C@H]2N1CC3=CC(C4=CC=C(C5=NN(C)N=N5)C=C4)=C(F)C=C3C2,Base,394.41,32,1.505149978,,,,,,,,,,,,,,,,,>64,,,>64,,,,0.47,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+423,D423,O=C1O[C@@H](CN[H])[C@H]2N1CC3=CC(N4CCOCC4)=C(F)C=C3C2,Base,321.35,64,1.806179974,57,56,,,58,58,,61,63,,62,,,,60,,>64,,,>64,,,,>32,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+424,D424,O=C1O[C@@H](CN[H])[C@H]2N1CC3=CC(C4=CC=C(C#N)N=C4)=CC=C3C2,Base,320.35,64,1.806179974,,,,,,,,,,,,,,,,,>64,,,>64,,,,2.94,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+425,D425,O=C1O[C@@H](CNC(C)=O)[C@H]2N1CC3=CC(N4CCOCC4)=CC=C3C2,Base,345.4,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+426,D426,O=C1O[C@@H](CNC(C)=O)[C@H]2N1CC3=CC(C4=CC=C(C5=NN(C)N=N5)C=C4)=C(F)C=C3C2,Base,436.45,0.125,-0.903089987,,,,,,,,,,,,,,,,,>64,,,0.125,,,,0.54,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+427,D427,O=C1O[C@@H](CNC(C)=O)[C@H]2N1CC3=CC(N4CCOCC4)=C(F)C=C3C2,Base,363.39,2,0.301029996,,,,,,,,,,,,,,,,,>64,,,8,,,,31.7,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+428,D428,O=C1O[C@@H](CNC(C)=O)[C@H]2N1CC3=CC(C4=CC=C(C#N)N=C4)=CC=C3C2,Base,362.39,0.5,-0.301029996,,,,,,,,,,,,,,,,,>64,,,1,,,,12.23,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+429,D429,O=C1O[C@@H](CN[H])[C@H]2N1CC3=CC(N4CCOCC4)=CC=C3C2,Base,303.36,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+430,D430,O=C1O[C@@H](CN[H])[C@H]2N1CC3=CC(F)=C(C4=CC=C(C#N)N=C4)C=C3C2,Base,338.34,64,1.806179974,,,,,,,,,,,,,,,,,>64,,,>64,,,,>32,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+431,D431,O=C1O[C@@H](CN[H])[C@H]2N1CC3=CC(F)=C(N4CCOCC4)C=C3C2,Base,321.35,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+432,D432,O=C1O[C@@H](CNC(C)=O)[C@H]2N1CC3=CC(F)=C(C4=CC=C(C#N)N=C4)C=C3C2,Base,380.38,64,1.806179974,,,,,,,,,,,,,,,,,>64,,,>64,,,,>32,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+433,D433,O=C1O[C@@H](CNC(C)=O)[C@H]2N1CC3=CC(F)=C(N4CCOCC4)C=C3C2,Base,363.39,,,,,,,,,,,,,,,,,,,,,,,,,,>32,,a Staphylococcus aureus 29213. b Bacillus subtilis 168. c Escherichia coli 25922.
+434,D434,O=C1OC[C@@H](N1)CC(C=C2)=CC=C2/N=C/C3=CC=CC=C3,Base,280.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+435,D435,O=C1OC[C@@H](N1CC(O)=O)CC(C=C2)=CC=C2/N=C/C3=CC=CC=C3,Other,338.36,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+436,D436,CCCN(C1C2=C(Cl)C=C(Cl)C=C2)C(C1N3C(COC3=O)CC(C=C4)=CC=C4/N=C/C5=CC=CC=C5)=O,Other,536.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+437,D437,CCCN(C1C2=C(OC)C=C(OC)C=C2)C(C1N3C(COC3=O)CC(C=C4)=CC=C4/N=C/C5=CC=CC=C5)=O,Other,527.62,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+438,D438,CCCN(C1C2=CC(Cl)=C(Cl)C=C2)C(C1N3C(COC3=O)CC(C=C4)=CC=C4/N=C/C5=CC=CC=C5)=O,Other,536.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+439,D439,[H]/C(C1=CC=CC=C1)=N\C2=CC=C(CC(CO3)N(C4C(N(C5=CC=CC=C5)C4C6=CC=CC=C6)=O)C3=O)C=C2,Other,501.59,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+440,D440,O=C(C1=CC=C([H])C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,310.35,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,200,,,,,"E. coli25922, E.faecalis51299"
+441,D441,O=C(C1=CC=C(Br)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,380.84,200,2.301029996,,,,,,,,400,,,,,,,,,400,400,,,400,,,,,
+442,D442,O=C(C1=CC=C(Cl)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,344.8,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,200,,,,,
+443,D443,O=C(C1=CC=C(F)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,328.34,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+444,D444,O=C(C1=CC=C(OC)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,340.38,200,2.301029996,,,,,,,,400,,,,,,,,,400,400,,,400,,,,,
+445,D445,O=C(C1=CC=C(C)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,324.38,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,200,,,,,
+446,D446,O=C(C1=CC=C([N+]([O-])=O)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,355.35,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+447,D447,O=S(NC1=CC=C(C[C@]2(C)NC(OC2)=O)C=C1)(C3=CC=C([H])C=C3)=O,Other,346.4,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,200,,,,,
+448,D448,O=S(NC1=CC=C(C[C@]2(C)NC(OC2)=O)C=C1)(C3=CC=C(Br)C=C3)=O,Other,425.3,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,200,,,,,
+449,D449,O=S(NC1=CC=C(C[C@]2(C)NC(OC2)=O)C=C1)(C3=CC=C(Cl)C=C3)=O,Other,380.84,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,200,,,,,
+450,D450,O=S(NC1=CC=C(C[C@]2(C)NC(OC2)=O)C=C1)(C3=CC=C(F)C=C3)=O,Other,364.39,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,100,,,,,
+451,D451,O=S(NC1=CC=C(C[C@]2(C)NC(OC2)=O)C=C1)(C3=CC=C(OC)C=C3)=O,Other,376.43,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+452,D452,O=S(NC1=CC=C(C[C@]2(C)NC(OC2)=O)C=C1)(C3=CC=C(C)C=C3)=O,Other,360.43,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+453,D453,O=S(NC1=CC=C(C[C@]2(C)NC(OC2)=O)C=C1)(C3=CC=C([N+]([O-])=O)C=C3)=O,Other,391.4,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+454,D454,S=C(NC1=CC=C([H])C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,341.43,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,100,,,,,
+455,D455,S=C(NC1=CC=C(Br)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,420.33,25,1.397940009,,,,,,,,50,,,,,,,,,200,100,,,100,,,,,
+456,D456,S=C(NC1=CC=C(Cl)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,375.87,200,2.301029996,,,,,,,,100,,,,,,,,,200,100,,,100,,,,,
+457,D457,S=C(NC1=CC=C(F)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,359.42,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+458,D458,S=C(NC1=CC=C(I)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,467.33,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+459,D459,S=C(NC1=CC=C(OC)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,371.46,200,2.301029996,,,,,,,,200,,,,,,,,,200,50,,,100,,,,,
+460,D460,S=C(NC1=CC=C(C)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,355.46,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+461,D461,S=C(NC1=CC=C([N+]([O-])=O)C=C1)NC2=CC=C(C[C@]3(C)NC(OC3)=O)C=C2,Other,386.43,200,2.301029996,,,,,,,,200,,,,,,,,,200,100,,,100,,,,,
+462,D462,ClC1=CC=C(C(NCCCN2C(O/C(C2=O)=C\C3=CC=C(Cl)C=C3)=N)=CC=N4)C4=C1,Other,441.31,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+463,D463,ClC1=CC=C(C(NCCCN2C(O/C(C2=O)=C\C3=CC=C([N+]([O-])=O)C=C3)=N)=CC=N4)C4=C1,Other,451.87,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+464,D464,ClC1=CC=C(C(NCCCN2C(O/C(C2=O)=C\C3=CC=C(OC)C=C3)=N)=CC=N4)C4=C1,Other,436.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+465,D465,ClC1=CC2=C(C(NCCCN3C4(NC(OC4)=O)O/C(C3=O)=C\C5=CC=C(Cl)C=C5)=CC=N2)C=C1,Other,499.35,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+466,D466,ClC1=CC2=C(C(NCCCN3C4(NC(OC4)=O)O/C(C3=O)=C\C5=CC=C([N+]([O-])=O)C=C5)=CC=N2)C=C1,Other,509.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+467,D467,ClC1=CC2=C(C(NCCCN3C4(NC(OC4)=O)O/C(C3=O)=C\C5=CC=C(OC)C=C5)=CC=N2)C=C1,Other,494.93,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+468,D468,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC=C(C)C=C4)=CS3)C=C2,Other,365.45,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+469,D469,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC=CC=C4)=CS3)C=C2,Other,351.42,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+470,D470,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC=C([N+]([O-])=O)C=C4)=CS3)C=C2,Other,396.42,,,,,,,,,,,,,,,,,,,12.5,,,50,,,,,,
+471,D471,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC=C(Cl)C=C4)=CS3)C=C2,Other,385.87,50,1.698970004,,,,,,,,,,,,,,,,,,,,50,,,,,,
+472,D472,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC=C(Br)C=C4)=CS3)C=C2,Other,430.32,,,,,,,,,,,,,,,,,,,,,,50,,,,,,
+473,D473,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC=C(F)C=C4)=CS3)C=C2,Other,369.41,25,1.397940009,,,,,,,,,,,,,,,,,,50,,25,,,,,,
+474,D474,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=C(F)C=CC=C4)=CS3)C=C2,Other,369.41,25,1.397940009,,,,,,,,,,,,,,,,,50,25,,12.5,,,,,,
+475,D475,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC(Cl)=CC=C4)=CS3)C=C2,Other,385.87,50,1.698970004,,,,,,,,,,,,,,,,,,50,,12.5,,,,,,
+476,D476,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC=C(C5=CC=CC=C5)C=C4)=CS3)C=C2,Other,427.52,12.5,1.096910013,,,,,,,,,,,,,,,,,25,25,,6.25,,,,,,
+477,D477,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC(C=CC=C5)=C5C=C4)=CS3)C=C2,Other,401.48,,,,,,,,,,,,,,,,,,,,,,25,,,,,,
+478,D478,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=C(C=CC=C5)C5=CC=C4)=CS3)C=C2,Other,401.48,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+479,D479,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=C(O)OC(O)=CC4=O)=CS3)C=C2,Other,401.39,,,,,,,,,,,,,,,,,,,,,,25,,,,,,
+480,D480,[H]C(C1NC(OC1)=O)([H])C2=CC=C(NC3=NC(C4=CC(C=CC=C5)=C5OC4=O)=CS3)C=C2,Other,419.46,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+481,D481,O=C(NO)[C@@H](CO1)N=C1C2=CC=CC=C2,Other,206.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Wild-type E. coli TG1 strain, Wild-type K. pneumoniae ATCC 13883 strain."
+482,D482,COC1=CC=C(C2=N[C@@H](C(NO)=O)CO2)C=C1,Other,236.23,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+483,D483,CCCC1=CC(C2=N[C@@H](C(NO)=O)CO2)=CC(OC)=C1OC,Other,308.33,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+484,D484,O=C(C[C@@H]([C@H](O)C)C(NO)=O)C1=CC=C(C#CC2=CC=C(CN3CCOCC3)C=C2)C=C1,Other,436.51,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+485,D485,O=C(N[C@H](C(NO)=O)[C@H](O)C)C1=CC=C(C#CC#CC2=CC=CC=C2)C=C1,Other,362.39,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+486,D486,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC3=CC=C(CN4CCOCC4)C=C3)C=C2)NO,Other,421.45,,,,,,,,,,,,,,,,,,,0.5,,,,2,,,,,
+487,D487,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#CCCO)C([H])=C2[H])NO,Other,314.3,,,,,,,,,,,,,,,,,,,0.5,,,,8,,,,,
+488,D488,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#CCCCO)C([H])=C2[H])NO,Other,328.32,,,,,,,,,,,,,,,,,,,0.1235,,,,2,,,,,
+489,D489,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#C[C@H]3[C@H](CO)C3)C([H])=C2[H])NO,Other,340.34,,,,,,,,,,,,,,,,,,,0.1235,,,,1,,,,,
+490,D490,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#CC3CC3)C([H])=C2[H])NO,Other,310.31,,,,,,,,,,,,,,,,,,,0.063,,,,0.25,,,,,
+491,D491,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#CC3CC3)C([H])=C2OC)NO,Other,340.34,,,,,,,,,,,,,,,,,,,4,,,,32,,,,,
+492,D492,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#CC3CC3)C([H])=C2F)NO,Other,328.3,,,,,,,,,,,,,,,,,,,0.5,,,,4,,,,,
+493,D493,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#CC3CC3)C(N)=C2[H])NO,Other,325.32,,,,,,,,,,,,,,,,,,,0.25,,,,2,,,,,
+494,D494,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#CC3CC3)C([N+]([O-])=O)=C2[H])NO,Other,355.31,,,,,,,,,,,,,,,,,,,0.125,,,,1,,,,,
+495,D495,O=C([C@@H](OC1=O)CN1C2=CC=C(C#CC#CC3CC3)C(F)=C2[H])NO,Other,328.3,,,,,,,,,,,,,,,,,,,0.016,,,,0.063,,,,,
+496,D496,O=C1N(C2=CC=C(C#CC3=CC=CC=C3)C=C2)C[C@@H](C(NO)=O)N1C,Other,335.36,,,,,,,,,,,,,,,,,,,20,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+497,D497,O=C1N(C2=CC=C(C3=CC=CC=C3)C=C2)C[C@@H](C(NO)=O)O1,Other,298.3,,,,,,,,,,,,,,,,,,,50,200,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+498,D498,O=C1N(C2=CC=C(C#CC3CC3)C=C2)C[C@@H](C(NO)=O)O1,Other,286.29,,,,,,,,,,,,,,,,,,,50,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+499,D499,O=C1N(C2=CC=C(C#CC3=CC=CC=C3)C=C2)C[C@@H](C(NO)=O)O1,Other,322.32,,,,,,,,,,,,,,,,,,,1.25,10,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+500,D500,O=C1N(C2=CC=C(C#CC3=CC=C(N)C=C3)C=C2)C[C@@H](C(NO)=O)O1,Other,337.34,,,,,,,,,,,,,,,,,,,1.25,10,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+501,D501,O=C(NO)[C@@H](O1)CN(C2=CC=C(C#CC3=CC=C(OCCS(C)(=O)=O)C=C3)C=C2)C1=O,Other,444.46,,,,,,,,,,,,,,,,,,,50,125,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+502,D502,O=C(NO)[C@@H](O1)CN(C2=CC=C(C#CC3=CC=C(OCCCS(C)(=O)=O)C=C3)C=C2)C1=O,Other,458.49,,,,,,,,,,,,,,,,,,,6.25,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+503,D503,O=C1N(C2=CC=C(C#CC3=CC=C(S(NC)(=O)=O)C=C3)C=C2)C[C@@H](C(NO)=O)O1,Other,415.42,,,,,,,,,,,,,,,,,,,3.12,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+504,D504,O=C(NO)[C@@H](O1)CN(C2=CC=C(C#CC#CC3=CC=CC=C3)C=C2)C1=O,Other,346.34,,,,,,,,,,,,,,,,,,,0.12,100,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+505,D505,O=C(NO)[C@@H](O1)CN(C2=CC=C(C#CC#CC3=CC=C(N)C=C3)C=C2)C1=O,Other,361.36,,,,,,,,,,,,,,,,,,,0.02,100,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+506,D506,O=C(NO)[C@@H](O1)CN(C2=CC=C(C#CC#CC3=CC=C(S(NC)(=O)=O)C=C3)C=C2)C1=O,Other,439.44,,,,,,,,,,,,,,,,,,,0.078,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+507,D507,O=C1N(C2=CC=C(C#CC#CC3CCCCC3)C=C2)C[C@@H](C(NO)=O)O1,Other,352.39,,,,,,,,,,,,,,,,,,,0.62,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+508,D508,O=C(NO)[C@@H](O1)CN(C2=CC=C(C#CC#CC3CCCC3)C=C2)C1=O,Other,338.36,,,,,,,,,,,,,,,,,,,0.015,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+509,D509,O=C1N(C2=CC=C(C#CC#CC3(O)CCCC3)C=C2)C[C@@H](C(NO)=O)O1,Other,354.36,,,,,,,,,,,,,,,,,,,1.56,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+510,D510,O=C1N(C2=CC=C(C#CC#CC(C)C)C=C2)C[C@@H](C(NO)=O)O1,Other,312.33,,,,,,,,,,,,,,,,,,,0.156,25,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+511,D511,O=C1N(C2=CC=C(C#CC#CC(O)(C)C)C=C2)C[C@@H](C(NO)=O)O1,Other,328.32,,,,,,,,,,,,,,,,,,,3.12,256,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+512,D512,O=C(NO)[C@@H](O1)CN(C2=CC=C(C#CC#CC3CC3)C=C2)C1=O,Other,310.31,,,,,,,,,,,,,,,,,,,0.03,100,,,,,,,,"E. coli, DH5α, P. aeruginosa, PAO1."
+513,D513,O=C1OCCN1NC(CCCOC2=CC=C(F)C=C2)=O,Other,282.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+514,D514,O=C1OCCN1NC(CCCOC2=CC(F)=CC=C2)=O,Other,282.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+515,D515,O=C1OCCN1NC(CCCOC2=CC(Cl)=CC=C2)=O,Other,298.72,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+516,D516,O=C1OCCN1NC(CCCOC2=C(F)C=CC=C2)=O,Other,282.27,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+517,D517,O=C1OCCN1NC(CCCCOC2=CC=C(Cl)C=C2)=O,Other,312.75,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+518,D518,O=C1OCCN1NC(CCCCCOC2=CC=C(Cl)C=C2)=O,Other,326.78,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+519,D519,O=C1OCCN1NC(CCCCCCOC2=CC=C(Cl)C=C2)=O,Other,340.8,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+520,D520,O=C1OCCN1NC(CCCCOC2=CC=C(F)C=C2)=O,Other,296.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+521,D521,O=C1OCCN1NC(CCCCOC2=CC=C(F)C=C2)=O,Other,296.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+522,D522,O=C1OCCN1NC(CCCOC2=C(F)C=C(F)C=C2)=O,Other,300.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+523,D523,O=C1OCCN1NC(CCCCCCOC2=C(Br)C=C(Br)C=C2)=O,Other,464.15,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+524,D524,O=C1OCCN1NC(CCCOC2=CC(F)=CC(F)=C2)=O,Other,300.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+525,D525,O=C1OCCN1NC(CCCOC2=CC=C(Br)C=C2)=O,Other,343.18,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+526,D526,O=C1OCCN1NC(CCCCCCOC2=CC=C(Br)C=C2)=O,Other,385.26,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+527,D527,O=C1OCCN1NC(CCCOC2=CC=C([N+]([O-])=O)C=C2)=O,Other,309.28,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+528,D528,O=C1OCCN1NC(CCCCCCOC2=CC=C([N+]([O-])=O)C=C2)=O,Other,351.36,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+529,D529,O=C1OCCN1NC(CCCSC2=CC=C(Cl)C=C2)=O,Other,314.78,,,,,,,,,,,,,,,,,,,,,,,,,,,,
